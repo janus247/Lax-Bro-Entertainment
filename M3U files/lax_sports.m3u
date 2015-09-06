@@ -1,4 +1,6 @@
-﻿#EXTINF:-1,[COLOR green][B][UPPERCASE]Sports Networks[/UPPERCASE][/B][/COLOR]
+﻿#EXTM3U
+
+#EXTINF:-1,[COLOR green][B][UPPERCASE]Sports Networks[/UPPERCASE][/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,Big 10 Network HD
