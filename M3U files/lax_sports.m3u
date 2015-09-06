@@ -1,0 +1,85 @@
+﻿#EXTM3U
+
+#EXTINF:-1,[COLOR green][B][UPPERCASE]Sports Networks[/UPPERCASE][/B][/COLOR]
+www.google.com
+
+#EXTINF:-1,Big 10 Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8
+
+#EXTINF:-1,Pac Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,PAC National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Arizona) HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Bay Area) HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Los Angeles) HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Oregon) HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Washington) HD
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1,NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,SportsNet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]NCAA Lax Live[/UPPERCASE][/B] links only active at game time![/COLOR]
+www.google.com
+
+#EXTINF:0,Hofstra Lacrosse Network 
+rtmp://23.82.149.10:1935/flash2/hofstravideo2
+
+#EXTINF:0,Drexel Lacrosse Network 
+rtmp://ea2.stretchinternet.com:1935/flash1/drexelvideo169
+
+#EXTINF:0,Salsbury Lacrosse Network Next Match
+rtmp://ec1.stretchinternet.com:1935/flash1/salisburyvideo
+
+#EXTINF:0,Muhlenberg Lacrosse Network 
+rtmp://ed1.stretchinternet.com:1935/flash1/muhlenbergvideo2
+
+#EXTINF:0,Gettysburg Lacrosse Network
+rtmp://23.108.203.8:1935/flash2/gettysburgvideohd
+
+#EXTINF:0, Towson Sports Network
+rtmp://ea1.stretchinternet.com:1935/flash2/towsonvideo
+
+#EXTINF:0, Haverford Lacrosse Network  
+rtmp://23.82.149.10:1935/flash2/haverfordvideo3
+
+#EXTINF:0, Franklin & Marshall Lacrosse Network  
+rtmp://23.82.149.7:1935/flash1/fandmvideohd
+
+#EXTINF:0, Lenoir Rhyne Lacrosse Network 
+rtmp://23.82.149.10:1935/flash1/lrvideo
+
+#EXTINF:0, Washington College Network Next Match: 3/18 5:00 p.m. EDT v. McDaniel
+rtmp://23.108.203.8:1935/flash1/washcollvideohd
+
+#EXTINF:0, Dickinson College Network 
+rtmp://ec1.stretchinternet.com:1935/dickinsonvideo
+
+#EXTINF:0, Stevenson College Network 
+rtmp://ed1.stretchinternet.com:1935/flash1/stevensonvideohd
+
+#EXTINF:0, Augustana College Network
+rtmp://eb3.stretchinternet.com:1935/flash1/augustanavideo
+
+#EXTINF:0, Merriman
+http://wpc.b63f.edgecastcdn.net/hls-live/20B63F/default/sidearm/lemoyne_1_1400.m3u8
+
+
+
+
+
+
