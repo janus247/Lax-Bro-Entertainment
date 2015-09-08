@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,[COLOR Brown][B][UPPERCASE]Lehigh Mountain Hawks Mens Lacrosse Archive[/UPPERCASE][/B][/COLOR]
-http://www.google.com/accounts/6846207/events/3763203/videos/80610715
+#EXTINF:-1,[COLOR brown][B][UPPERCASE]Lehigh Mountain Hawks Mens Lacrosse Archive[/UPPERCASE][/B][/COLOR]
+www.google.com
 
-#EXTINF:0,Lehigh Sports 
+#EXTINF:0,Lehigh Sports - 2015 Athletics Highlights
 plugin://plugin.video.youtube/?action=play_video&videoid=V_xGotBEKf0
 
 #EXTINF:0,04.21.15 Lehigh at Bucknell Patriot League Quarterfinal
