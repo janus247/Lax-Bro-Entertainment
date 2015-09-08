@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]Live Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
+www.google.com
+
+#EXTINF:-1,[COLOR red][B][UPPERCASE]* * * Do not click on the link before the indicated game time.  All times EST [/UPPERCASE][/B][/COLOR]
+www.google.com
+
+#EXTINF:-1,9.8.15 (7:00 PM) Men's Soccer - Siena at Boston University
+http://api.new.livestream.com/accounts/6846136/events/4181360/live.m3u8
+
+#EXTINF:-1,9.8.15 (7:00 PM) Women's Soccer - Umass-Lowell at Holy Cross
+http://api.new.livestream.com/accounts/6846167/events/4181477/live.m3u8
+
+#EXTINF:-1,9.8.15 (7:00 PM) Volleyball - Villanova at Lehigh
+http://api.new.livestream.com/accounts/6846207/events/4151577/live.m3u8

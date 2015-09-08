@@ -6,7 +6,7 @@ www.google.com
 #EXTINF:0,Lehigh Sports - 2015 Athletics Highlights
 plugin://plugin.video.youtube/?action=play_video&videoid=V_xGotBEKf0
 
-#EXTINF:0 tvg-name="LU" audio-track="eng" tvg-logo="http://cdn.images.insidelacrosse.com/cms/pics/cover_pics/115/22920.jpg",4.21.15 Lehigh at Bucknell Patriot League Quarterfinal
+#EXTINF:0,4.21.15 Lehigh at Bucknell Patriot League Quarterfinal
 https://pdvod.new.livestream.com/events/0000000000396baf/be058d17-8974-4c89-9f49-7c071aeadf80_2320.mp4
 
 #EXTINF:0,4.17.15 Lafayette at Lehigh
