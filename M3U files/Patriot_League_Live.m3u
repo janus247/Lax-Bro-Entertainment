@@ -6,6 +6,5 @@ www.google.com
 #EXTINF:-1,[COLOR red][B][UPPERCASE]* * * Do not click on the link before the indicated game time.  All times EST [/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXT-X-STREAM-INF:-1,9.8.15 (7:00 PM) Men's Soccer - Siena at Boston University
-http://livestream-f.akamaihd.net/i/6846136_4181360_7b8455f1_1@144034/index_678_av-p.m3u8
-
+#EXTINF:-1,9.8.15 (7:00 PM) Men's Soccer - Siena at Boston University
+http://api.new.livestream.com/accounts/6846136/events/4181360/live.m3u8
