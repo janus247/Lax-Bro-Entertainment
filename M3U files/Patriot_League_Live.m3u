@@ -6,11 +6,6 @@ www.google.com
 #EXTINF:-1,[COLOR red][B][UPPERCASE]* * * Do not click on the link before the indicated game time.  All times EST [/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:-1,9.8.15 (7:00 PM) Men's Soccer - Siena at Boston University
-http://livestream-f.akamaihd.net/i/6846136_4181360_7b8455f1_1@144034/index_678_av-p.m3u8?sd=10&dw=100&rebase=on
+#EXT-X-STREAM-INF:-1,9.8.15 (7:00 PM) Men's Soccer - Siena at Boston University
+http://livestream-f.akamaihd.net/i/6846136_4181360_7b8455f1_1@144034/index_678_av-p.m3u8
 
-#EXTINF:-1,9.8.15 (7:00 PM) Women's Soccer - Umass-Lowell at Holy Cross
-http://livestream-f.akamaihd.net/i/6846167_1188286_de14188a_1@132227/index_2320_av-p.m3u8
-
-#EXTINF:-1,9.8.15 (7:00 PM) Volleyball - Villanova at Lehigh
-http://livestream-f.akamaihd.net/i/6846207_1192911_f1eea19d_1@174824/index_198_av-p.m3u8
