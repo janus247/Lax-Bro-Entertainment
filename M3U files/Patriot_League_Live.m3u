@@ -3,11 +3,16 @@
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]Live Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point
-plugin://plugin.video.livestream/?action=play_video&payload=http://api.new.livestream.com/accounts/6846277/events/4249296/live.m3u8
+#EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point Part 1
+http://livestream-f.akamaihd.net/i/6846277_4249296_1ba764b4_1@174767/index_2320_av-p.m3u8
+
+
+#EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point Part 2
+http://livestream-f.akamaihd.net/i/6846277_4249296_1ba764b4_1@174767/index_678_av-p.m3u8
 
 #EXTINF:-1 9.9.15,(7:00 PM EST)	Volleyball - Air Force at Navr
-http://livestream-f.akamaihd.net/6846277_4249296_1ba764b4_1_678@174767
+http://livestream-f.akamaihd.net/i/6846277_4249296_1ba764b4_1@174767/index_2320_av-p.m3u8
+
 
 #EXTINF:-1 9.9.15,(7:00 PM EST)	Volleyball - Air Force at Nav2
-http://livestream.com/accounts/6846277/events/4249296/
+http://livestream-f.akamaihd.net/i/6846277_4249296_1ba764b4_1@174767/index_2320_av-p.m3u8?sd=10&dw=100&rebase=on
