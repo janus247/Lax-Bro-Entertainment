@@ -4,14 +4,18 @@
 www.google.com
 
 #EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point Part 1
-http://livestream-f.akamaihd.net/i/6846277_4249296_1ba764b4_1@174767/index_678_av-p.m3u8
+plugin://plugin.video.livestream/?action=play_video&video_path=http://livestream.com/accounts/6846277/events/4249296
 
 
 #EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point Part 2
-http://livestream-f.akamaihd.net/i/6846277_4249296_1ba764b4_1@174767/index_198_av-p.m3u8
+plugin://plugin.video.livestream/?action=play_video&url_path=http://livestream.com/accounts/6846277/events/4249296
 
-#EXTINF:-1 9.9.15,(7:00 PM EST)	Volleyball - Air Force at Navr
-http://livestream-f.akamaihd.net/i/6846277_4249296_1ba764b4_1@174767/index_198_a-p.m3u8
+
+#EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point Part 3
+plugin://plugin.video.livestream/?action=play_video&url=http://livestream.com/accounts/6846277/events/4249296
+
+#EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point Part 4
+plugin://plugin.video.livestream/?action=play_video&accounts=6846277&events=4249296
 
 
 
