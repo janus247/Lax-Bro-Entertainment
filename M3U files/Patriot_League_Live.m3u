@@ -7,10 +7,7 @@ www.google.com
 www.google.com
 
 #EXTINF:-1 9.9.15 (7:00 PM EST)	Volleyball - Air Force at Navy
-plugin://plugin.video.livestream/?action=play_video&url=http://livestream-f.akamaihd.net/11982233_3783589_405af0d7_1_1756@363425?v=3.6.0&fp=WIN%2018,0,0,232&r=IDVCY&g=EDJBTQFTUBGP
+http://pdvod.new.livestream.com/events/00000000003edfb9/0fbe06ae-5707-4c03-9a9d-8e5bd8471024_446.mp4
 
-#EXTINF:-1 9.9.15 (7:00 PM EST)	Volleyball - Air Force at Navt
-http://livestream-f.akamaihd.net/11982233_3783589_405af0d7_1_1756@363425?v=3.6.0&fp=WIN%2018,0,0,232&r=IDVCY&g=EDJBTQFTUBGP
-
-
+#EXTINF:-1 9.9.15 (7:00 PM EST)	Volleyball - Air Force at Navr
 http://api.new.livestream.com/accounts/6846224/events/4181518/live.m3u8
