@@ -6,11 +6,7 @@ www.google.com
 #EXTINF:-1,[COLOR red][B][UPPERCASE]* * * Wait until indicated game time.  All times EST * * * [/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:-1,9.9.15 (7:00 PM EST)	Volleyball - Marist at Army West Point
-plugin://plugin.video.livestream/?action=play_video&url=http://api.new.livestream.com/accounts/6846277/events/4249296/live.m3u8
-
 #EXTINF:-1 9.9.15 (7:00 PM EST)	Volleyball - Air Force at Navy
-plugin://plugin.video.livestream/?action=play_video&url=http://livestream.com/accounts/11982233/events/3783589/player?width=960&height=540&autoPlay=true&mute=false" width="960" height="540" frameborder="0" scrolling="no"
-
+plugin://plugin.video.livestream/?action=play_video&url=http://livestream.com/accounts/11982233/events/3783589/
 
 http://api.new.livestream.com/accounts/6846224/events/4181518/live.m3u8
