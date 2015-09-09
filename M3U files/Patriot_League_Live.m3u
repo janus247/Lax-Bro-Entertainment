@@ -15,7 +15,7 @@ plugin://plugin.video.livestream/?action=play_video&url_path=http://livestream.c
 plugin://plugin.video.livestream/?action=play_video&url=http://livestream.com/accounts/6846277/events/4249296
 
 #EXTINF:-1 9.9.15,(5:00 PM EST)	Volleyball - Marist at Army West Point Part 4
-plugin://plugin.video.livestream/?action=play_video&accounts=6846277&events=4249296
+plugin://plugin.video.livestream/?action=play_video&accountsid=6846277&eventsid=4249296
 
 
 
