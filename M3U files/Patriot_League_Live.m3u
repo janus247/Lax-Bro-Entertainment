@@ -3,11 +3,11 @@
 #EXTINF:-1,[COLOR blue][B][UPPERCASE]Live Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:-1,[COLOR red][B][UPPERCASE]* * * Wait until indicated game time.  All times EST * * * [/UPPERCASE][/B][/COLOR]
-www.google.com
-
 #EXTINF:-1 9.9.15 (7:00 PM EST)	Volleyball - Air Force at Navy
-http://pdvod.new.livestream.com/events/00000000003edfb9/0fbe06ae-5707-4c03-9a9d-8e5bd8471024_446.mp4
+http://api.new.livestream.com/accounts/12674554/events/4120505/videos/93760897.m3u8
 
 #EXTINF:-1 9.9.15 (7:00 PM EST)	Volleyball - Air Force at Navr
-http://api.new.livestream.com/accounts/12674554/events/4120505/videos/96680096.m3u8
+http://api.new.livestream.com/accounts/12674554/events/4120505/videos/93714631.m3u8
+
+#EXTINF:-1 9.9.15 (7:00 PM EST)	Volleyball - Air Force at Navs
+http://pdvod.new.livestream.com/events/00000000003edfb9/3734b8ad-d83f-40aa-a3fb-7151c4345724_198.mp4
