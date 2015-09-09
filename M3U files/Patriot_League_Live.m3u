@@ -9,3 +9,5 @@ plugin://plugin.video.livestream/?action=play_video&payload=http://api.new.lives
 #EXTINF:-1 9.9.15,(7:00 PM EST)	Volleyball - Air Force at Navr
 http://livestream-f.akamaihd.net/6846277_4249296_1ba764b4_1_678@174767
 
+#EXTINF:-1 9.9.15,(7:00 PM EST)	Volleyball - Air Force at Nav2
+http://livestream.com/accounts/6846277/events/4249296/
