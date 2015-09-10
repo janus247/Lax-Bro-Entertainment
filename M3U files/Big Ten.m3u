@@ -1,2 +1,11 @@
-#EXTINF:0,3.21.2015 PENN ST. vs DENVER
+#EXTINF:0,3.21.2015 Penn State vs Denver
 rtmp://o2.stretchinternet.com:1935/ondemand/mp4:hofstra/hofstra-208503-v.mp4
+
+#EXTINF:0,3.17.2015 Ohio State at Towson
+rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205709-v.mp4
+
+#EXTINF:0,2.14.15 Penn State at Loyola
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/77115803.m3u8
+
+#EXTINF:0,2.14.15 Maryland at Navy 
+http://api.new.livestream.com/accounts/6846224/events/3763228/videos/77116389.m3u8
