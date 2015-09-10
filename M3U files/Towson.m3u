@@ -14,7 +14,7 @@ rtmp://o2.stretchinternet.com:1935/ondemand/mp4:caa/caa-213873-v.mp4
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-211296-v.mp4
 
 #EXTINF:0,3.28.2015 TOWSON MEN'S LACROSSE vs MASSACHUSETTS
-part1[rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205723-v.mp4
+rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205723-v.mp4
 
 #EXTINF:0,3.17.2015 TOWSON MEN'S LACROSSE vs OHIO STATE
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205709-v.mp4
