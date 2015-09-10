@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR blue][B][UPPERCASE]Live Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B][UPPERCASE]Live & Upcoming Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:-1 9.9.15,(5:00 PM EST)	Women's Volleyball - Air Force at Navy
-http://livestream-f.akamaihd.net/i/6846224_4181518_435dcc73_1@146981/index_2320_av-p.m3u8?sd=10&dw=100&rebase=on|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4&Cookie=hdntl%3Dexp%3D1441926534%7Eacl%3D%252fi%252f6846224_4181518_435dcc73_1%2540146981%252f%2A%7Edata%3Dhdntl%7Ehmac%3D73a4960a7ae6faa2eaae43c237b75dc4db0e754f2edb9cdbf1d0c05d64b648dc%3B%20path%3D/%3B%20domain%3Dlivestream-f.akamaihd.net%3B%2C%20_alid_%3DtUuhKDQm3bDAHYpoCXTjWA%3D%3D%3B%20path%3D/i/6846224_4181518_435dcc73_1%40146981/%3B%20domain%3Dlivestream-f.akamaihd.net
+#EXTINF:-1 9.10.15, 4:00 PM EDT	Field Hockey - UC Davis at Holy Cross
+www.google.com
 
 
 

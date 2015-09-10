@@ -4,46 +4,39 @@
 www.google.com
 
 #EXTINF:0,4.21.15 Army at Loyola Patriot League Quarterfinal
-http://pdvod.new.livestream.com/events/0000000000396c32/40f6dae6-0c3c-46a3-95a0-c2da3f1bf95c_2320.mp4?__gda__=1441617959_231e8d78f836fc4a79000d362574877c
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/84701722.m3u8
 
 #EXTINF:0,04.17.15 Loyola at Bucknell
-http://pdvod.new.livestream.com/events/0000000000396baf/b0e9df5d-1e49-4a41-b525-e7a2c9632f78_1756.mp4?__gda__=1441613091_b1e3eb4f8fabbbed818081b06a9808f0
+http://api.new.livestream.com/accounts/6846151/events/3763119/videos/84283442.m3u8
 
-#EXTINF:0,4.11.2015 Loyola at Boston University
-http://pdvod.new.livestream.com/events/0000000000396bc3/3d253a49-4e4b-402c-8cda-ce16a114cc9f_2320.mp4?__gda__=1441594841_657c00b3db10d203b99b140d6422ef59
+#EXTINF:0,4.11.2015 Loyola at Boston University (Part 1) 
+http://api.new.livestream.com/accounts/6846136/events/3763139/videos/83584295.m3u8
 
-
-#EXTINF:0,4.11.2015 Loyola at Boston University
-http://pdvod.new.livestream.com/events/0000000000396bc3/87aec23e-1a92-4c9a-aa8e-049decff539e_2320.mp4?__gda__=1441594841_4119be21919fc703788c591404b543f8
+#EXTINF:0,4.11.2015 Loyola at Boston University (Part 2) 
+http://api.new.livestream.com/accounts/6846136/events/3763139/videos/83583867.m3u8
 
 
 #EXTINF:0,4.4.15 Navy at Loyola
-http://pdvod.new.livestream.com/events/0000000000396c32/f2b222ef-25ad-48c6-a691-a8f5cbccef31_2320.mp4?__gda__=1441617959_fad05e10f64f6015efb7fdc8d08a74c4
-
-#EXTINF:0,3.18.15 Georgetown at Loyola (Part 2)
-http://pdvod.new.livestream.com/events/0000000000396c32/20729a2e-392b-4d7c-9c12-95662ae584cc_2320.mp4?__gda__=1441617959_b9754ac4c81ab858cbf43124c7c71a64
-
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/82794004.m3u8
 
 #EXTINF:0,3.18.15 Georgetown at Loyola (Part 1)
-http://pdvod.new.livestream.com/events/0000000000396c32/404d2428-f182-4ab6-90b2-62844617077e_2320.mp4?__gda__=1441617959_11bd57702cb7de2931b804b2e6df4dc7
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/80734255.m3u8
+
+#EXTINF:0,3.18.15 Georgetown at Loyola (Part 2)
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/80742438.m3u8
 
 #EXTINF:0,2.28.15 Lehigh at Loyola
-http://pdvod.new.livestream.com/events/0000000000396c32/aae01a6f-f92f-4c21-86d1-bc97f5e4322d_2320.mp4?__gda__=1441617959_cdf6ce1bd792d24883bce39d493c2221
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/78632453.m3u8
 
 
 #EXTINF:0,2.14.15 Penn State at Loyola
-http://pdvod.new.livestream.com/events/0000000000396c32/c3f0102c-74f4-4c45-8536-c7ee1e46fc14_2320.mp4?__gda__=1441617959_868bda96496332449dfa92b9864bbf55
-
-
-#EXTINF:0,2.7.15 Virginia at Loyola(2nd Half)
-http://pdvod.new.livestream.com/events/0000000000396c32/6ac9eac2-ac74-4257-ae05-b6dfec7d73d2_2320.mp4?__gda__=1441617959_1c98a307907a7bcc693d212c353cdeaa
-
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/77115803.m3u8
 
 #EXTINF:0,2.7.15 Virginia at Loyola Men's Lacrosse (1st Half)
-http://pdvod.new.livestream.com/events/0000000000396c32/183b2650-bb6e-4e84-bafd-91ed2d009f42_2320.mp4?__gda__=1441617959_fc20698ec20b3dc324943d761f9f41f6
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/76382348.m3u8
 
-
-
+#EXTINF:0,2.7.15 Virginia at Loyola(2nd Half)
+http://api.new.livestream.com/accounts/6846238/events/3763250/videos/76390184.m3u8
 
 
 
