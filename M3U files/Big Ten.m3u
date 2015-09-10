@@ -10,35 +10,5 @@ http://api.new.livestream.com/accounts/6846238/events/3763250/videos/77115803.m3
 #EXTINF:0,2.14.15 Maryland at Navy 
 http://api.new.livestream.com/accounts/6846224/events/3763228/videos/77116389.m3u8
 
-#EXTINF:-1, Wrestling Link 1
-plugin://plugin.video.livestream/play/?accounts=5297069&events=4324165
- 
-#EXTINF:-1, Wrestling Link 2
-plugin://plugin.video.livestream/play/?accounts_id=5297069&events_id=4324165
- 
-#EXTINF:-1, Wrestling Link 3
-plugin://plugin.video.livestream/play/?accounts/5297069/events/4324165/
- 
-#EXTINF:-1, Wrestling Link 4
-plugin://plugin.video.livestream/play/?url=http://livestream.com/accounts/5297069/events/4324165/
- 
-#EXTINF:-1, Wrestling Link 5
-plugin://plugin.video.livestream/play/?path=http://livestream.com/accounts/5297069/events/4324165/
- 
-#EXTINF:-1, Wrestling Link 5
-plugin://plugin.video.livestream/play/?url_path=http://livestream.com/accounts/5297069/events/4324165/
- 
-#EXTINF:-1, Wrestling Link 6
-plugin://plugin.video.livestream/play/?play_path=http://livestream.com/accounts/5297069/events/4324165/
- 
-#EXTINF:-1, Wrestling Link 8
-plugin://plugin.video.livestream/play/?payload=http://livestream.com/accounts/5297069/events/4324165/
- 
-#EXTINF:-1, Wrestling Link 9
-plugin://plugin.video.livestream/play/?stream_url=http://livestream.com/accounts/5297069/events/4324165/
- 
-#EXTINF:-1, Wrestling Link 10
-plugin://plugin.video.livestream/play/?owner_account_id=5297069&id=4324165
- 
-#EXTINF:-1, Wrestling Link 11
-plugin://plugin.video.livestream/play/?id=4324165&owner_account_id=5297069
+#EXTINF:0,5.2.2015 Bryant vs. Saint Joseph's (NEC Championship) 	
+http://api.new.livestream.com/accounts/9570485/events/4017116/videos/85915055.m3u8
