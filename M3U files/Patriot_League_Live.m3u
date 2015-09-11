@@ -9,4 +9,7 @@ www.google.com
 http://livestream-f.akamaihd.net/i/6846167_1189890_c397d830_1@142139/index_1756_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4&Cookie=hdntl%3Dexp%3D1442096056%7Eacl%3D%252fi%252f6846167_1189890_c397d830_1%2540142139%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0f9fe9298538960c8e9eb10495bfbb33e48446c9afde11ece3e7fe5b59fdfd09%3B%20path%3D/%3B%20domain%3Dlivestream-f.akamaihd.net%3B%2C%20_alid_%3Dbtzs9Lur9wQD%2BSFsA9Zidg%3D%3D%3B%20path%3D/i/6846167_1189890_c397d830_1%40142139/%3B%20domain%3Dlivestream-f.akamaihd.net
 
 #EXTINF:-1, Other Soccer (Test) 
-plugin://plugin.video.livestream/?action=play_video&id=6846161_4181453
+plugin://plugin.video.livestream/?action=play_video&sourceId=6846151_4181403
+
+#EXTINF:-1, Other Soccer 2 (Test) 
+plugin://plugin.video.livestream/?action=play_video&id=55eeecbee4b04c50496aef9f
