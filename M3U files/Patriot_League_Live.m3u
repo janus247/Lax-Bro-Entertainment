@@ -13,3 +13,15 @@ plugin://plugin.video.livestream/?action=play_video&sourceId=6846151_4181403
 
 #EXTINF:-1, Other Soccer 2 (Test) 
 plugin://plugin.video.livestream/?action=play_video&id=55eeecbee4b04c50496aef9f
+
+
+
+#EXTINF:-1, Other Soccer 3 (Test) 
+plugin://plugin.video.livestream/?action=play_video&mediaId=55eeecbee4b04c50496aef9f
+
+#EXTINF:-1, Other Soccer 4 (Test) 
+plugin://plugin.video.livestream/?action=play_video&sourceId=slcms-b810d030-ba48-46b5-b2bf-09f10d15b06c
+
+#EXTINF:-1, Other Soccer 4 (Test) 
+plugin://plugin.video.livestream/?action=play_video&assetId=6846161_4181453
+
