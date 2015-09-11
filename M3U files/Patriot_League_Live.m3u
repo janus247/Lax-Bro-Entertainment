@@ -6,5 +6,7 @@ www.google.com
 www.google.com
 
 #EXTINF:-1, Wrestling Link 1
-http://api.new.livestream.com/accounts/6846167/events/4181475/live.m3u8
+http://vod.livestream.com/accounts/6846167/events/4181475/videos/98190444.m3u8
  
+#EXTINF:-1, Wrestling Link 15
+plugin://plugin.video.livestream/?url=http://vod.livestream.com/accounts/6846167/events/4181475/videos/98190444.m3u8&mode=playVideo
