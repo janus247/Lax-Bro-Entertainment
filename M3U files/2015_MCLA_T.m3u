@@ -31,7 +31,7 @@ http://www.google.com
 plugin://plugin.video.youtube/?action=play_video&videoid=1pKofz6dEAA
 
 #EXTINF:0,MCLA Div. I - Grand Canyon v. Cal Poly(Round 2)
-plugin://plugin.video.youtube/?action=play_video&videoid=q68LYAdytk
+plugin://plugin.video.youtube/?action=play_video&videoid=-q68LYAdytk
 
 #EXTINF:0,MCLA Div. I - Chapman v. Stanford(Round 2)
 plugin://plugin.video.youtube/?action=play_video&videoid=TqcUuqDSsJE
@@ -48,7 +48,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=DM1EmJ3WmOQ
 plugin://plugin.video.youtube/?action=play_video&videoid=wZIBFGmuD2U
 
 #EXTINF:0,MCLA Div. II - Dayton v. Siena Heights(Round 2)
-plugin://plugin.video.youtube/?action=play_video&videoid=taaPXwAm4bEv=5kbjQWqiDKov=I7i8jrmJK3Q
+plugin://plugin.video.youtube/?action=play_video&videoid=taaPXwAm4bEv=I7i8jrmJK3Q
 
 #EXTINF:0,MCLA Div. II - North Dakota St. v. Western Washington(Round 2)
 plugin://plugin.video.youtube/?action=play_video&videoid=u2w5KiuPGfU
