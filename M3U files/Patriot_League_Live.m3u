@@ -15,3 +15,9 @@ plugin://plugin.video.livestream/play/?url=http://api/new.livestream.com/account
 
 #EXTINF:-1, Wrestling Link 13
 plugin://plugin.video.livestream/play/?url=http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8
+
+#EXTINF:-1, Wrestling Link 14
+plugin://plugin.video.livestream/play/?m3u8_url=http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8
+
+#EXTINF:-1, Wrestling Link 15
+plugin://plugin.video.livestream/play/?M3U8!!!=http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8
