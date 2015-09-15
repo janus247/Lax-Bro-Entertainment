@@ -10,3 +10,8 @@ rtsp://212-133.livestream.com:8080/livestreamiphone/8109350_1195762_8150ff6d_1_2
 rtsp://212-133.livestream.com:8080/livestreamiphone/4175709_1188634_6f43e602_1_198@137093
 #EXTINF:-1, No Scheduled Events
 http://pdvod.new.livestream.com/events/000000000041ff0d/23487023-e6e1-401b-9d77-f1ba4f9ed7fc_2320.mp4
+#EXTINF:-1, Wrestling Link 13
+plugin://plugin.video.livestream/play/?url=http://api/new.livestream.com/accounts/4175709/events/4325133/videos/99262890.m3u8
+
+#EXTINF:-1, Wrestling Link 13
+plugin://plugin.video.livestream/play/?url=http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8
