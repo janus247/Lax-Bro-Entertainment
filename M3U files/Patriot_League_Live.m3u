@@ -8,3 +8,5 @@ rtsp://212-133.livestream.com:8080/livestreamiphone/2091798_3228733_32364601_1_1
 rtsp://212-133.livestream.com:8080/livestreamiphone/8109350_1195762_8150ff6d_1_273@192256
 #EXTINF:-1, No Scheduled Events
 rtsp://212-133.livestream.com:8080/livestreamiphone/4175709_1188634_6f43e602_1_198@137093
+#EXTINF:-1, No Scheduled Events
+http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8?dw=100&hdnea=st=1442283358~exp=1442284258~acl=/i/4175709_1188634_6f43e602_1@137093/*~hmac=492f6a6c12f1610651185e1e72896f31e1e82c7bf27d9465a935a38720b1d2d4
