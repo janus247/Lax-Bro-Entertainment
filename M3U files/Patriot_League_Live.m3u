@@ -1,23 +1,27 @@
 #EXTINF:0,[COLOR blue][B][UPPERCASE]Live & Upcoming Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1, url and number
+plugin://plugin.video.livestream/?url=99320113&mode=playVideo
 
-#EXTINF:-1, No Scheduled Events
-rtsp://212-133.livestream.com:8080/livestreamiphone/2091798_3228733_32364601_1_198@123099
-#EXTINF:-1, No Scheduled Events
-rtsp://212-133.livestream.com:8080/livestreamiphone/8109350_1195762_8150ff6d_1_273@192256
-#EXTINF:-1, No Scheduled Events
-rtsp://212-133.livestream.com:8080/livestreamiphone/4175709_1188634_6f43e602_1_198@137093
-#EXTINF:-1, No Scheduled Events
-http://pdvod.new.livestream.com/events/000000000041ff0d/23487023-e6e1-401b-9d77-f1ba4f9ed7fc_2320.mp4&token=61d57ff4b45a23016c9a98558467649b
-#EXTINF:-1, Wrestling Link 13
-plugin://plugin.video.livestream/play/?url=http://api/new.livestream.com/accounts/4175709/events/4325133/videos/99262890.m3u8
+#EXTINF:-1, url and url and video mode
+plugin://plugin.video.livestream/?url=http://livestream.com/accounts/4175709/events/4206552&mode=playVideo
 
-#EXTINF:-1, Wrestling Link 13
-plugin://plugin.video.livestream/play/?url=http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8
 
-#EXTINF:-1, Wrestling Link 14
-plugin://plugin.video.livestream/play/?m3u8_url=http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8
+#EXTINF:-1, url and account events and video mode
+plugin://plugin.video.livestream/?url=accounts/4175709/events/4206552&mode=playVideo
 
-#EXTINF:-1, Wrestling Link 150
-plugin://plugin.video.livestream/play/?M3U8!!!=http://api.new.livestream.com/accounts/4175709/events/4325133/broadcasts/99262889.m3u8
+#EXTINF:-1, play and accounts and events
+plugin://plugin.video.livestream/?play=accounts/4175709/events/4206552
+
+#EXTINF:-1, smil
+plugin://plugin.video.livestream/?url=http://api.new.livestream.com/accounts/4175709/events/4206552/broadcasts/99320112.smil&mode=playVideo
+
+#EXTINF:-1, m3u8
+plugin://plugin.video.livestream/?url=http://api.new.livestream.com/accounts/4175709/events/4206552/broadcasts/99320112.m3u8&mode=playVideo
+
+#EXTINF:-1, m3u8 with code
+plugin://plugin.video.livestream/?url=http://api.new.livestream.com/accounts/4175709/events/4206552/broadcasts/99320112.m3u8?dw=100&hdnea=st=1442360952~exp=1442361852~acl=/i/4175709_1188634_2caee4c8_1@137093/*~hmac=c0e614d5e5ff157511fff82daf076b4654832fe013de79d6801cc26954a0045f&mode=playVideo
+
+#EXTINF:-1, rtsp
+rtsp://212-123.livestream.com:8080/livestreamiphone/4175709_1188634_2caee4c8_1_198@137093
