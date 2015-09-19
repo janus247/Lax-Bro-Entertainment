@@ -1,10 +1,5 @@
 #EXTINF:0,[COLOR blue][B][UPPERCASE] Live & Upcoming Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-plugin://plugin.video.livestream/?play=http://livestream.com/accounts/11365479/events/3710862
- 
-plugin://plugin.video.livestream/?play=http://livestream.com/accounts/11365479/events/3710862/
- 
-plugin://plugin.video.livestream/?play=accounts/11365479/events/3710862
- 
-plugin://plugin.video.livestream/?play=accounts/11365479/events/3710862/
+#EXTINF:0,5.06.2015 TOWSON MEN'S LACROSSE vs HIGH POINT
+https://raw.githubusercontent.com/janus247/Lax-Bro-Entertainment/master/M3U%20files/towson_test.m3u8
