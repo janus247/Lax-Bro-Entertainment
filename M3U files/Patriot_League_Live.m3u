@@ -2,4 +2,6 @@
 www.google.com
 
 #EXTINF:0,5.06.2015 TOWSON MEN'S LACROSSE vs HIGH POINT
-https://raw.githubusercontent.com/janus247/Lax-Bro-Entertainment/master/M3U%20files/towson_test.m3u8
+rtmp://o2.stretchinternet.com:1935/ondemand/mp4:caa/caa-213873-v.mp4
+
+rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205709-v.mp4
