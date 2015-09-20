@@ -29,8 +29,8 @@ http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1,NBC Sports Network 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-
-
+#EXTINF:-1,NFL Network HD
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175-b/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
 
 
 
