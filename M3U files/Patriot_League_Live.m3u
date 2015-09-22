@@ -8,7 +8,7 @@ http://api.new.livestream.com/accounts/6846167/events/3763105/videos/83583114.m3
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205709-v.mp4
 
 #EXTINF:0,5.06.2015 Chess
-plugin://plugin.video.livestream/?play=http://livestream.com/accounts/11365479/events/371086228738/events/4298205/watch/player
+https://livestream-f.akamaihd.net/5208770_2375103_3f12c881_1_1756@139895?v=3.6.0&fp=WIN%2019,0,0,185&r=YLTGF&g=PKGPPQQCNCJL
 
 #EXTINF:0,5.06.2015 Chess2
 plugin://plugin.video.livestream/?play=http://livestream.com/accounts/11365479/events/371086228738/events/4298205/watch/player&mode=vid
