@@ -6,3 +6,9 @@ http://api.new.livestream.com/accounts/6846167/events/3763105/videos/83583114.m3
 
 #EXTINF:0,[COLOR black]For best viewing experience visit towson.com[/COLOR]
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205709-v.mp4
+
+#EXTINF:0,5.06.2015 Chess
+plugin://plugin.video.livestream/?play=http://livestream.com/accounts/11365479/events/371086228738/events/4298205/watch/player
+
+#EXTINF:0,5.06.2015 Chess2
+plugin://plugin.video.livestream/?play=http://livestream.com/accounts/11365479/events/371086228738/events/4298205/watch/player&mode=vid
