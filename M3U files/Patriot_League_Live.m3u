@@ -5,6 +5,13 @@ www.google.com
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&event_id=4151577&owner_id=6846207
 
 
+#EXTINF:0,5.06.2015 Chess
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Waldorf+College+-+JV+VB+vs.+Viterbo+University&icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F000000000041095e%2F5b5dd8cb-6112-4790-9ee7-fd1b68edc30e_160x240.jpg&event_id=4262238&owner_id=1020901
+
+#EXTINF:0,5.06.2015 Chess2
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&event_id=4370327&owner_id=9429903
+
+
 
 
 
