@@ -1,7 +1,7 @@
 #EXTINF:0,[COLOR blue][B][UPPERCASE] Recent & Live & Upcoming Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:0,9.22.2015 7:00 E.S.T  Lafayette at Lehigh -- Women's Volleyball
+#EXTINF:0,9.22.2015 7:00 EST Women's Volleyball - Lafayette at Lehigh
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball+-+Lafayette+at+Lehigh&event_id=4151577&owner_id=6846207
 
 #EXTINF:0,9.24.2015 7:00 PM EST  Men's Soccer - Harvard at Boston University
@@ -19,50 +19,50 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Field+Hockey+-+A
 #EXTINF:0,9.25.2015 7:00 PM EST Volleyball - Loyola Maryland at Lehigh
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball+-+Loyola+Maryland+at+Lehigh&event_id=4151577&owner_id=6846207
 
-#EXTINF:0,9.26.2015 11:00 AM EST	Field Hockey - Lehigh at Bucknell	
+#EXTINF:0,9.26.2015 11:00 AM EST Field Hockey - Lehigh at Bucknell	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=FIeld+Hockey+-+Lehigh+at+Bucknell&event_id=4181457&owner_id=6846151	
 
-#EXTINF:0,9.26.2015 12:00 PM EST	Field Hockey - Holy Cross at American	
+#EXTINF:0,9.26.2015 12:00 PM EST Field Hockey - Holy Cross at American	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Field+Hockey+-+Holy+Cross+at+American&event_id=4181385&owner_id=6846118
 	
-#EXTINF:0,9.26.2015 12:05 PM EST	Football - Colgate at Holy Cross
+#EXTINF:0,9.26.2015 12:05 PM EST Football - Colgate at Holy Cross
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Football+-+Colgate+at+Holy+Cross&event_id=4181467&owner_id=6846167	
 
-#EXTINF:0,9.26.2015 1:00 PM EST	Football - Monmouth at Fordham	
+#EXTINF:0,9.26.2015 1:00 PM EST Football - Monmouth at Fordham	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Football+-+Monmouth+at+Fordham&event_id=4263577&owner_id=5045923
 	
-#EXTINF:0,9.26.2015 1:00 PM EST	Men's Soccer - Army West Point at Lafayette	Oaks Stadium	
+#EXTINF:0,9.26.2015 1:00 PM EST Men's Soccer - Army West Point at Lafayette	Oaks Stadium	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Men%27s+Soccer+-+Army+West+Point+at+Lafayette&event_id=4181502&owner_id=6846185
 
-#EXTINF:0,9.26.2015 1:00 PM EST	Men's Soccer - Holy Cross at Lehigh	Ulrich Sports Complex
+#EXTINF:0,9.26.2015 1:00 PM EST Men's Soccer - Holy Cross at Lehigh	Ulrich Sports Complex
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Men%27s+Soccer+-+Holy+Cross+at+Lehigh&event_id=4151583&owner_id=6846207	
 
-#EXTINF:0,9.26.2015 1:00 PM EST	Field Hockey - Boston University at Colgate	Tyler's Field
+#EXTINF:0,9.26.2015 1:00 PM EST Field Hockey - Boston University at Colgate	Tyler's Field
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Field+Hockey+-+Boston+University+at+Colgate&event_id=4181459&owner_id=6846161	
 
-#EXTINF:0,9.26.2015 2:00 PM EST	Women's Soccer - Holy Cross at Bucknell	Emmitt Field at Holmes Stadium	
+#EXTINF:0,9.26.2015 2:00 PM EST Women's Soccer - Holy Cross at Bucknell	Emmitt Field at Holmes Stadium	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Holy+Cross+at+Bucknell&event_id=4181452&owner_id=6846151
 
-#EXTINF:0,9.26.2015 4:00 PM EST	Men's Soccer - American at Colgate	Beyer Small ’76 Field	
+#EXTINF:0,9.26.2015 4:00 PM EST Men's Soccer - American at Colgate	Beyer Small ’76 Field	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Men%27s+Soccer+-+American+at+Colgate&event_id=4181463&owner_id=6846161
 
-#EXTINF:0,9.26.2015 4:00 PM EST	Volleyball - Holy Cross at Colgate	Cotterell Court	
+#EXTINF:0,9.26.2015 4:00 PM EST Volleyball - Holy Cross at Colgate	Cotterell Court	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball+-+Holy+Cross+at+Colgate&event_id=4181453&owner_id=6846161
 
-#EXTINF:0,9.26.2015 4:00 PM EST	Volleyball - Navy at Lehigh	Leeman- Turner Arena
+#EXTINF:0,9.26.2015 4:00 PM EST Volleyball - Navy at Lehigh	Leeman- Turner Arena
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball+-+Navy+at+Lehigh&event_id=4151577&owner_id=6846207
 	
-#EXTINF:0,9.26.2015 5:30 PM EST	Women's Soccer - Loyola Maryland at Navy	Glenn Warner Soccer Facility	
+#EXTINF:0,9.26.2015 5:30 PM EST Women's Soccer - Loyola Maryland at Navy	Glenn Warner Soccer Facility	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Loyola+Maryland+at+Navy&event_id=4181527&owner_id=6846224
 
-#EXTINF:0,9.26.2015 6:00 PM EST	Football - Lafayette at Wagner	Wagner College Stadium	
+#EXTINF:0,9.26.2015 6:00 PM EST Football - Lafayette at Wagner	Wagner College Stadium	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Football+-+Lafayette+at+Wagner&event_id=4181479&owner_id=6846185
 
-#EXTINF:0,9.26.2015 7:00 PM EST	Women's Soccer - Army West Point at Lafayette	Oaks Stadium	
+#EXTINF:0,9.26.2015 7:00 PM EST Women's Soccer - Army West Point at Lafayette	Oaks Stadium	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Army+West+Point+at+Lafayette&event_id=4181510&owner_id=6846185
 
-#EXTINF:0,9.26.2015 7:00 PM EST	Women's Soccer - Colgate at Lehigh	Ulrich Sports Complex
+#EXTINF:0,9.26.2015 7:00 PM EST Women's Soccer - Colgate at Lehigh	Ulrich Sports Complex
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Colgate+at+Lehigh&event_id=4151577&owner_id=6846207
 
-#EXTINF:0,9.26.2015 8:00 PM EST	Men's Soccer - Loyola Maryland at Navy	Glenn Warner Soccer Facility
+#EXTINF:0,9.26.2015 8:00 PM EST Men's Soccer - Loyola Maryland at Navy	Glenn Warner Soccer Facility
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Men%27s+Soccer+-+Loyola+Maryland+at+Navy&event_id=4181504&owner_id=6846224
