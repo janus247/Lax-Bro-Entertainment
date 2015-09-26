@@ -25,6 +25,9 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Field+Hockey+-+A
 #EXTINF:0,9.25.2015 7:00 PM EST Volleyball - Loyola Maryland at Lehigh
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball+-+Loyola+Maryland+at+Lehigh&event_id=4151577&owner_id=6846207
 
+#EXTINF:0,9.26.2015 10:00 PM EST Women's Soccer - Colorado College at Nevada Mackay Stadium
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Colorado+College+at+Nevada&event_id=4249685&owner_id=14596019
+
 #EXTINF:0,9.26.2015 11:00 AM EST Field Hockey - Lehigh at Bucknell	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=FIeld+Hockey+-+Lehigh+at+Bucknell&event_id=4181457&owner_id=6846151	
 
