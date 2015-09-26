@@ -31,9 +31,6 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer
 #EXTINF:0,9.26.2015 11:00 AM EST Field Hockey - Lehigh at Bucknell	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=FIeld+Hockey+-+Lehigh+at+Bucknell&event_id=4181457&owner_id=6846151	
 
-#EXTINF:0,9.26.2015 12:00 AM EST Women's Soccer - Columbia at Fairleigh Dickinson	
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Hartford+at+Fairleigh+Dickinson&event_id=4373059&owner_id=9570476	
-
 #EXTINF:0,9.26.2015 12:00 PM EST Field Hockey - Holy Cross at American	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Field+Hockey+-+Holy+Cross+at+American&event_id=4181385&owner_id=6846118
 	
@@ -81,3 +78,6 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Men%27s+Soccer+-
 
 #EXTINF:0,9.26.2015 8:00 PM EST Women's Volleyball: Boise State at Idaho State 
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Boise+State+-+Idaho+State+at+Boise+State+Volleyball+9%2F3%2F15+7pm+MT&icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F000000000040d7e4%2Fe7f40803-78f3-4887-af7c-b2f18ca7a637_2520_1280x720.jpg&event_id=4249572&owner_id=14596003
+
+#EXTINF:0,9.26.2015 12:00 AM EST Women's Soccer - Columbia at Fairleigh Dickinson	
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Hartford+at+Fairleigh+Dickinson&event_id=4373059&owner_id=9570476
