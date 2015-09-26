@@ -28,6 +28,9 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball+-+Loy
 #EXTINF:0,9.26.2015 11:00 AM EST Field Hockey - Lehigh at Bucknell	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=FIeld+Hockey+-+Lehigh+at+Bucknell&event_id=4181457&owner_id=6846151	
 
+#EXTINF:0,9.26.2015 12:00 AM EST Women's Soccer - Hartford at Fairleigh Dickinson	
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Hartford+at+Fairleigh+Dickinson&event_id=4181457&owner_id=6846151	
+
 #EXTINF:0,9.26.2015 12:00 PM EST Field Hockey - Holy Cross at American	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Field+Hockey+-+Holy+Cross+at+American&event_id=4181385&owner_id=6846118
 	
