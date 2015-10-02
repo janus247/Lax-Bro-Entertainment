@@ -3,7 +3,7 @@ www.google.com
 
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Otherwise you will be directed to home team's most recent recorded game[/B][/COLOR]
 www.google.com
-
+[COLOR yellow]
 #EXTINF:0,9.22.2015 7:00 EST Women's Volleyball - Lafayette at Lehigh
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball+-+Lafayette+at+Lehigh&event_id=4151577&owner_id=6846207
 
@@ -81,6 +81,6 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Boise+State+-+Id
 
 #EXTINF:0,9.26.2015 12:00 AM EST Women's Soccer - Columbia at Fairleigh Dickinson	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Hartford+at+Fairleigh+Dickinson&event_id=4373059&owner_id=9570476
-
+[/COLOR]
 #EXTINF:0,9.26.2015 6:45 PM EST Women's Soccer - UAlbany vs. Binghamton America East
 http://jtvs-wscr-albany.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wscr-albany/as/live/wscr-albany_hd_3000.m3u8
