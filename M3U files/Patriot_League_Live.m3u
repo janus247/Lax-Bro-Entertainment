@@ -1,4 +1,4 @@
-#EXTINF:0,[COLOR blue][B][UPPERCASE] Recent & Live & Upcoming Patriot League Sports Action[/UPPERCASE][/B][/COLOR]
+#EXTINF:0,[COLOR blue][B][UPPERCASE] Recent & Live & Upcoming College Sports Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Otherwise you will be directed to home team's most recent recorded game[/B][/COLOR]
@@ -76,16 +76,29 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer
 #EXTINF:0,9.26.2015 8:00 PM EST Men's Soccer - Loyola Maryland at Navy Glenn Warner Soccer Facility
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Men%27s+Soccer+-+Loyola+Maryland+at+Navy&event_id=4181504&owner_id=6846224
 
-#EXTINF:0,9.26.2015 8:00 PM EST Women's Volleyball: Boise State at Idaho State 
+#EXTINF:0,9.26.2015 8:00 PM EST Women's Volleyball - Boise State at Idaho State 
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Boise+State+-+Idaho+State+at+Boise+State+Volleyball+9%2F3%2F15+7pm+MT&icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F000000000040d7e4%2Fe7f40803-78f3-4887-af7c-b2f18ca7a637_2520_1280x720.jpg&event_id=4249572&owner_id=14596003
 
 #EXTINF:0,9.26.2015 12:00 AM EST Women's Soccer - Columbia at Fairleigh Dickinson	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Women%27s+Soccer+-+Hartford+at+Fairleigh+Dickinson&event_id=4373059&owner_id=9570476
 
 
-#EXTINF:0,9.26.2015 6:45 PM EST Women's Soccer - UAlbany vs. Binghamton America East
+#EXTINF:0,9.26.2015 6:45 PM EST Women's Soccer - UAlbany vs. Binghamton by America East TV
 http://jtvs-wscr-albany.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wscr-albany/as/live/wscr-albany_hd_3000.m3u8
 
 
-#EXTINF:0,10.2.2015 3:00 PM EST Men's Soccer - Howard at Robert Morris	
+#EXTINF:0,10.2.2015 3:00 PM EST Men's Soccer - Howard at Robert Morris by NEC Front Row
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Robert+Morris+Soccer&event_id=4393718&owner_id=9570479
+
+#EXTINF:0,10.2.2015 5:45 PM EST Field Hockey - River Hawks at Black Bears by America East TV
+http://jtvs-fh-aec-lowell.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/fh-aec-lowell/as/live/fh-aec-lowell_hd_1600.m3u8
+
+#EXTINF:0,10.2.2015 6:00 PM EST Volleyball - Colgate at Navy by Campus Insiders (PLN)	
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Navy+Volleyball&event_id=4181518&owner_id=6846224
+
+
+#EXTINF:0,10.2.2015 7:00 PM EST Women's Ice Hockey - Robert Morris at Colgate by Campus Insiders (PLN)
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+Women%27s+Ice+Hockey&event_id=4370778&owner_id=6846161
+
+#EXTINF:0,10.2.2015 7:00 PM EST Women's Soccer - Mount St. Mary's at Fairleigh Dickinson ny NEC Front Row	
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Fairleigh+Dickinson+Women%27s+Soccer&event_id=4373059&owner_id=9570476
