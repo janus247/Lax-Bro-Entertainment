@@ -102,3 +102,6 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+Women%27
 
 #EXTINF:0,10.2.2015 7:00 PM EST Women's Soccer - Mount St. Mary's at Fairleigh Dickinson ny NEC Front Row	
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Fairleigh+Dickinson+Women%27s+Soccer&event_id=4373059&owner_id=9570476
+
+#EXTINF:0,10.5.2015 6:30 PM EST Cleveland Cavaliers Wine & Gold Scrimmage
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Cleveland=Cavaliers+Wine+and+Gold+scrimmage&event_id=4368060&owner_id=4090753
