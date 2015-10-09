@@ -29,6 +29,9 @@ http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1,PAC-12 Net. (Washington) HD
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
+#EXTINF:-1,Fox Sports College HD
+http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
+
 #EXTINF:-1,NBC Sports Network 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
@@ -38,8 +41,8 @@ http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175-b/NFL_Mobile/2015Mobile_NFL
 #EXTINF:-1,NFL Network Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
-#EXTINF:-1,NFL Red Zone SD
-http://209.133.208.138:1935/app/zunoxhks-channel/chunklist_w1127776217.m3u8
+#EXTINF:-1,Versus ND
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 
 
