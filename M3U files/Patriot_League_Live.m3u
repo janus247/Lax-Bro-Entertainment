@@ -106,5 +106,5 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Fairleigh+Dickin
 #EXTINF:0,10.5.2015 6:30 PM EST Cleveland Cavaliers Wine & Gold Scrimmage
 http://api.new.livestream.com/accounts/4090753/events/4395487/videos/101194765.m3u8
 
-#EXTINF:0,10.5.2015 6:30 PM EST NBA
-http://demand.hscontent.com/east30/vod6/bs/5612685b/10042015/3035HD.mp4?token=YXZDU3ZHcFFKK1FBRmJheDd4YmY5YTlRUm8zQ1RONTI3VitZWU93QXlray9IM05KZ293c0VjWUsxeHdtdlVCa3RGSnJDUzJTRmVKWFlIbXVqc09hZzluRmxwRkUxNUJQdWxVS0Z0QjY4bUk9
+#EXTINF:0,10.5.2015 NBA Test Link
+http://watch.hscontent.com/ondemand_bs/east41/vod6/10102015/3059HD.m3u8?token=YXZDU3ZHcFFKK1FBRmJheDd4YmY5YTlRUm8zQ1RONTI3VitZWU93QXlray9IM05KZ293c0VjWUsxeHdtdlVCa3RGSnJDUzJTRmVKWFlIbXVqc09hZzNOdldoQ3ZkMkZScmw3WmVTaXJ3QkU9
