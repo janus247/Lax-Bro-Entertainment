@@ -53,6 +53,29 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1,ESPN ND
 http://192.99.147.19:5808/espnhdguys/playlist.m3u8
 
+#EXTINF:-1,ESPN 2 ND
+http://89.248.172.57:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+
+#EXTINF:-1,TEST 1 ND
+http://5.196.82.222:8000/live/test1/test1/26.m3u8
+
+#EXTINF:-1,TEST 2 ND
+http://lag1.tv-mobile.org/prgl.m3u8
+
+#EXTINF:-1,Fox New York ND
+http://192.99.147.19:5808/foxhdguys/index.m3u8
+
+#EXTINF:-1,TEST 3 ND
+http://89.248.172.57:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
+
+#EXTINF:-1,CBS New York ND
+http://192.99.147.19:5808/cbshdguys/playlist.m3u8
+
+#EXTINF:-1,CBS New York ND
+http://192.99.147.19:5808/abchdguys/playlist.m3u8
+
+
+
 
 
 
