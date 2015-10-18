@@ -2,11 +2,38 @@
 #EXTINF:-1,[COLOR green][B][UPPERCASE]Sports Networks[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,ABC New York ND
+http://192.99.147.19:5808/abchdguys/playlist.m3u8
+
 #EXTINF:-1,Big 10 Network HQ
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8
 
 #EXTINF:-1,Big 10 Network HD
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,CBS New York ND
+http://192.99.147.19:5808/cbshdguys/playlist.m3u8
+
+#EXTINF:-1,ESPN ND
+http://192.99.147.19:5808/espnhdguys/playlist.m3u8
+
+#EXTINF:-1,Fox New York ND
+http://192.99.147.19:5808/foxhdguys/index.m3u8
+
+#EXTINF:-1, Fox Sports One ND
+http://192.99.147.19:5808/foxsports/playlist.m3u8
+
+#EXTINF:-1,Fox Sports Two ND
+http://192.99.147.19:5808/foxsports2/playlist.m3u8
+
+#EXTINF:-1,Fox Sports College HD
+http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
+
+#EXTINF:-1,NFL Network HD
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175-b/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
+
+#EXTINF:-1,NFL Network Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
 #EXTINF:-1,Pac Mountain HD
 http://xrxs.net/video/live-p12moun-4728.m3u8
@@ -29,46 +56,8 @@ http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1,PAC-12 Net. (Washington) HD
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1,Fox Sports One ND
-http://192.99.147.19:5808/foxsports/playlist.m3u8
-
-#EXTINF:-1,Fox Sports Two ND
-http://192.99.147.19:5808/foxsports2/playlist.m3u8
-
-#EXTINF:-1,Fox Sports College HD
-http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
-
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
-
-#EXTINF:-1,NFL Network HD
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175-b/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8
-
-#EXTINF:-1,NFL Network Now
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
 #EXTINF:-1,Versus ND
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
-#EXTINF:-1,ESPN ND
-http://192.99.147.19:5808/espnhdguys/playlist.m3u8
-
-#EXTINF:-1,ESPN 2 ND
-http://89.248.172.57:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-
-#EXTINF:-1,Fox New York ND
-http://192.99.147.19:5808/foxhdguys/index.m3u8
-
-#EXTINF:-1,FOX Dayton ND
-http://89.248.172.57:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
-
-#EXTINF:-1,CBS New York ND
-http://192.99.147.19:5808/cbshdguys/playlist.m3u8
-
-#EXTINF:-1,ABC New York ND
-http://192.99.147.19:5808/abchdguys/playlist.m3u8
-
-
 
 
 
