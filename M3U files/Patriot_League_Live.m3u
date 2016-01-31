@@ -20,7 +20,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Providen
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Navy&event_id=4711981&owner_id=6846224
 
 #EXTINF:0,9.25.2015 7:00 PM EST Wrestling - Columbia at American
-plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Wrestling+-+Columbia+at+American&amp;icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&amp;event_id=4589323&amp;owner_id=6846118&amp;video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Wrestling+-+Columbia+at+American&amp;event_id=4589323&amp;owner_id=6846118&amp;video_id=LIVE
 
 #EXTINF:0,9.25.2015 7:00 PM EST Field Hockey - Albany at Lafayette
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Field+Hockey+-+Albany+at+Lafayette&event_id=4181483&owner_id=6846185
