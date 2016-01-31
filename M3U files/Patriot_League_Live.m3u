@@ -11,7 +11,10 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+Nav
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=NJIT+at+Lehigh&event_id=4711960&owner_id=6846207
 
 #EXTINF:0,2.06.2016 1:00 PM EST Providence at Boston University
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Boston+University&event_id=4711793&owner_id=6846136
+plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Providence+at+Boston+University&amp;icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&amp;&event_id=4711793&amp;owner_id=6846136&amp;video_id=LIVE
+
+
+	
 
 #EXTINF:0,2.09.2016 7:00 PM EST Johns Hopkins at Navy
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Navy&event_id=4711981&owner_id=6846224
