@@ -8,7 +8,7 @@ www.google.com
 http://api.new.livestream.com/accounts/12163893/events/4654344/videos/109005740.m3u8
 
 #EXTINF:0,1.06.2016 11:30 AM EST - Colgate at Loyola Maryland
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Loyola&icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&event_id=4477177&owner_id=6846238&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Loyola&icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F000000000048c139%2F30870df2-b690-4fb8-ac22-953e923abe72_170x255.png&event_id=4477177&owner_id=6846238&video_id=LIVE
 
 #EXTINF:0,2.06.2016 11:30 AM EST - Air Force at Navy
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+Navy&icon=https%3A%2F%2Fimg.new.livestream.com%2Fevents%2F000000000048c139%2F30870df2-b690-4fb8-ac22-953e923abe72_170x255.png&event_id=4711981&owner_id=6846224&video_id=LIVE
