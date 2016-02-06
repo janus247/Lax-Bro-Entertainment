@@ -4,18 +4,14 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  [/B][/COLOR]
 www.google.com
 
-#EXTINF:0,1.06.2016 11:30 AM EST - USA vs Canada Spring Premiere U-19
-http://api.new.livestream.com/accounts/12163893/events/4654344/videos/109005740.m3u8
-
-#EXTINF:0,1.06.2016 11:30 AM EST - Test
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Volleyball&event_id=3528647&owner_id=9570480&video_id=LIVE
-
+#EXTINF:0,[COLOR yellow][B]Saturday, February 6, 2016[/B][/COLOR]
+www.google.com
 
 #EXTINF:0,2.06.2016 11:30 AM EST - Air Force at Navy
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+Navy&icon=https%3A%2F%2Fimg.new.livestream.com%2Fevents%2F000000000048c139%2F30870df2-b690-4fb8-ac22-953e923abe72_170x255.png&event_id=4711981&owner_id=6846224&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
 
 #EXTINF:0,2.06.2016 12:00 PM EST - NJIT at Lehigh
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=NJIT+at+Lehigh&icon=http%3A%2F%2Fcdn.livestream.com%2Fnewlivestream%2Fposter-default_170x255.jpeg&event_id=4711960&owner_id=6846207&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=NJIT+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
 
 #EXTINF:0,2.06.2016 1:00 PM EST - Providence at Boston University
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Boston+University&event_id=4711793&owner_id=6846136&video_id=LIVE
@@ -23,8 +19,23 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Bo
 #EXTINF:0,2.06.2016 1:00 PM EST - Manhattan at Bryant
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=3988757&owner_id=9570474&video_id=LIVE
 
+#EXTINF:0,2.06.2016 1:00 PM EST - Pamona-Pitzer at Fresno State
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Pamona-Pitzer+at+Fresno+State&event_id=4667331&owner_id=14595993&video_id=LIVE
+
+#EXTINF:0,[COLOR yellow][B]Tuesday, February 9, 2016[/B][/COLOR]
+www.google.com
+
 #EXTINF:0,2.09.2016 7:00 PM EST - Johns Hopkins at Navy
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
+
+#EXTINF:0,[COLOR yellow][B]Friday, February 12, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,2.12.2016 7:00 PM EST - Stetson at Fresno State
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Stetson+at+Fresno+State&event_id=4668238&owner_id=14595993&video_id=LIVE
+
+#EXTINF:0,[COLOR yellow][B]Saturday, February 13, 2016[/B][/COLOR]
+www.google.com
 
 #EXTINF:0,2.13.2016 12:00 PM EST - Manhattan at Wagner
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=3943471&owner_id=9570483&video_id=LIVE
@@ -35,12 +46,20 @@ http://jtvs-wscr-albany.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wscr-albany/as
 #EXTINF:0,2.13.2016 1:00 PM EST - Bucknell at Bryant
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Bryant&event_id=3988757&owner_id=9570474&video_id=LIVE
 
+#EXTINF:0,2.13.2016 1:00 PM EST - Denver at Air Force
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Denver+at+Air+Force&event_id=4694103&owner_id=14595985&video_id=LIVE
+
+#EXTINF:0,[COLOR yellow][B]Saturday, February 20, 2016[/B][/COLOR]
+www.google.com
+
 #EXTINF:0,2.20.2016 12:55 PM EST - Denison at Washington & Lee
 http://portal.stretchinternet.com/wandl/
 
 #EXTINF:0,2.20.2016 1:00 PM EST - Dartmouth at Sacred Heart
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sacred+Heart&event_id=3903811&owner_id=9570480&video_id=LIVE
 
+#EXTINF:0,2.20.2016 1:00 PM EST - VMI at Saint Josephs
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
 
 
 
