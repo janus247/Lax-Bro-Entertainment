@@ -19,7 +19,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Bo
 #EXTINF:0,2.06.2016 1:00 PM EST - Manhattan at Bryant
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=3988757&owner_id=9570474&video_id=LIVE
 
-#EXTINF:0,2.06.2016 1:00 PM EST - Pamona-Pitzer at Fresno State
+#EXTINF:0,2.06.2016 5:00 PM EST - Pamona-Pitzer at Fresno State
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Pamona-Pitzer+at+Fresno+State&event_id=4667331&owner_id=14595993&video_id=LIVE
 
 #EXTINF:0,[COLOR yellow][B]Tuesday, February 9, 2016[/B][/COLOR]
