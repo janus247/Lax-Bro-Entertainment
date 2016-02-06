@@ -1,64 +1,64 @@
 #EXTINF:0,[COLOR blue][B][UPPERCASE] Live & Upcoming College Lacrosse Action[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR red][B]Click on link at game time.  [/B][/COLOR]
+#EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.[/B][/COLOR]
 www.google.com
 
 #EXTINF:0,[COLOR yellow][B]Saturday, February 6, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,2.06.2016 11:30 AM EST - Air Force at Navy
+#EXTINF:0,2.06.2016 11:30 AM EST - Air Force at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
 
-#EXTINF:0,2.06.2016 12:00 PM EST - NJIT at Lehigh
+#EXTINF:0,2.06.2016 12:00 PM EST - NJIT at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=NJIT+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
 
-#EXTINF:0,2.06.2016 1:00 PM EST - Providence at Boston University
+#EXTINF:0,2.06.2016 1:00 PM EST - Providence at Boston University - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Boston+University&event_id=4711793&owner_id=6846136&video_id=LIVE
 
-#EXTINF:0,2.06.2016 1:00 PM EST - Manhattan at Bryant
+#EXTINF:0,2.06.2016 1:00 PM EST - Manhattan at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=3988757&owner_id=9570474&video_id=LIVE
 
-#EXTINF:0,2.06.2016 5:00 PM EST - Pamona-Pitzer at Fresno State
+#EXTINF:0,2.06.2016 5:00 PM EST - Pamona-Pitzer at Fresno State - for best viewing experience visit MWN at http://campusinsiders.com/network/mw/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Pamona-Pitzer+at+Fresno+State&event_id=4667331&owner_id=14595993&video_id=LIVE
 
 #EXTINF:0,[COLOR yellow][B]Tuesday, February 9, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,2.09.2016 7:00 PM EST - Johns Hopkins at Navy
+#EXTINF:0,2.09.2016 7:00 PM EST - Johns Hopkins at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
 
 #EXTINF:0,[COLOR yellow][B]Friday, February 12, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,2.12.2016 7:00 PM EST - Stetson at Fresno State
+#EXTINF:0,2.12.2016 7:00 PM EST - Stetson at Fresno State - for best viewing experience visit MWN at http://campusinsiders.com/network/mw/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Stetson+at+Fresno+State&event_id=4668238&owner_id=14595993&video_id=LIVE
 
 #EXTINF:0,[COLOR yellow][B]Saturday, February 13, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,2.13.2016 12:00 PM EST - Manhattan at Wagner
+#EXTINF:0,2.13.2016 12:00 PM EST - Manhattan at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=3943471&owner_id=9570483&video_id=LIVE
 
-#EXTINF:0,2.13.2016 12:55 PM EST - UMBC vs. John Hopkins by America East TV
+#EXTINF:0,2.13.2016 12:55 PM EST - UMBC vs. John Hopkins by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-wscr-albany.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wscr-albany/as/live/wscr-albany_hd_3000.m3u8
 
-#EXTINF:0,2.13.2016 1:00 PM EST - Bucknell at Bryant
+#EXTINF:0,2.13.2016 1:00 PM EST - Bucknell at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Bryant&event_id=3988757&owner_id=9570474&video_id=LIVE
 
-#EXTINF:0,2.13.2016 1:00 PM EST - Denver at Air Force
+#EXTINF:0,2.13.2016 1:00 PM EST - Denver at Air Force - - for best viewing experience visit MWN at http://campusinsiders.com/network/mw/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Denver+at+Air+Force&event_id=4694103&owner_id=14595985&video_id=LIVE
 
 #EXTINF:0,[COLOR yellow][B]Saturday, February 20, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,2.20.2016 12:55 PM EST - Denison at Washington & Lee
+#EXTINF:0,2.20.2016 12:55 PM EST - Denison at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 http://portal.stretchinternet.com/wandl/
 
-#EXTINF:0,2.20.2016 1:00 PM EST - Dartmouth at Sacred Heart
+#EXTINF:0,2.20.2016 1:00 PM EST - Dartmouth at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sacred+Heart&event_id=3903811&owner_id=9570480&video_id=LIVE
 
-#EXTINF:0,2.20.2016 1:00 PM EST - VMI at Saint Josephs
+#EXTINF:0,2.20.2016 1:00 PM EST - VMI at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
 
 
