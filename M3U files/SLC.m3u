@@ -41,6 +41,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=vrRRo7gFWws
 #EXTINF:0,4.4.15 MCLA SLC Game of the Week - UCLA at Chapman - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=1LCsEF59etg
 
+#EXTINF:0,3.22.15 MCLA - NC State vs. George Washington - subscribe to The Wolfpack Network on Youtube
+plugin://plugin.video.youtube/?action=play_video&videoid=c8NIJxayu2g
+
+
 #EXTINF:0,3.21.15 MCLA SLC Game of the Week - UCSB at Loyola Marymount - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=TdbJKdDeKb0
 
@@ -81,42 +85,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=JxCsbz2vhAE
 plugin://plugin.video.youtube/?action=play_video&videoid=9I0fOrnhKe8
 
 
-#EXTINF:-1,[COLOR yellow]2014 Season[/COLOR]
 
-
-
-#EXTINF:-1,[COLOR yellow]2013 Season[/COLOR]
-http://www.google.com
-http://www.google.com
-#EXTINF:0,MCLA Div. I - Colorado v. Virginia Tech(Final Four)
-plugin://plugin.video.youtube/?action=play_video&videoid=X83YWAH6CGA
-
-#EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
-http://www.google.com
-
-#EXTINF:0,4.17.2015 Holy Cross at Boston University
-http://api.new.livestream.com/accounts/6846136/events/3763139/videos/84280551.m3u8
-
-#EXTINF:0,4.11.2015 Loyola at Boston University (Part 1) 
-http://api.new.livestream.com/accounts/6846136/events/3763139/videos/83584295.m3u8
-
-#EXTINF:0,4.11.2015 Loyola at Boston University (Part 2) 
-http://api.new.livestream.com/accounts/6846136/events/3763139/videos/83583867.m3u8
-
-#EXTINF:0,4.7.2015 Harvard at Boston University 
-http://api.new.livestream.com/accounts/6846136/events/3763139/videos/83154335.m3u8
-
-#EXTINF:0,3.21.2015 Bucknell at Boston University
-http://api.new.livestream.com/accounts/6846136/events/3763139/videos/80256547.m3u8
-
-#EXTINF:0,3.14.2015 Lafayette at Boston University
-http://api.new.livestream.com/accounts/6846136/events/3763139/videos/80256547.m3u8
-
-#EXTINF:0,3.7.2015 Boston University at Colgate
-http://api.new.livestream.com/accounts/6846161/events/3763167/videos/79420528.m3u8
-
-#EXTINF:0,2.21.2015 Boston University at Lehigh
-http://api.new.livestream.com/accounts/6846207/events/3763203/videos/77809517.m3u8
 
 
 
