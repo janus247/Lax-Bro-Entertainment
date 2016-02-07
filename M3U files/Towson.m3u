@@ -4,6 +4,9 @@ www.google.com
 #EXTINF:0,5.06.2015 TOWSON MEN'S LACROSSE vs HIGH POINT
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-216287-v.mp4
 
+#EXTINF:0,5.06.2015 TOWSON MEN'S LACROSSE vs HIGH POINT
+http://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-216287-v.mp4/playlist.m3u8
+
 #EXTINF:0,5.02.2015 TOWSON MEN'S LACROSSE vs MASSACHUSETTS
 rtmp://o2.stretchinternet.com:1935/ondemand/mp4:caa/caa-213875-v.mp4
 
