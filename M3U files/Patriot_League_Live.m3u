@@ -8,7 +8,7 @@ www.google.com
 www.google.com
 
 #EXTINF:0,2.09.2016 7:00 PM EST - Test
-rtmp://vodfc.cdn.xosnetwork.com/a277/e3/mp4:video100/RERSSEGCPALCLUJ.20160206200802?e=1454827853&h=0ecf5ee2571fb71eefdacc9563889ce1&uid=0000&oem_id=14000&event=4682672_vod_UNHWomensBasketballvsBinghamton2616]]
+rtmp://vodfc.cdn.xosnetwork.com/a277/e3/mp4:video100/RERSSEGCPALCLUJ.20160206200802?e=1454827853&h=0ecf5ee2571fb71eefdacc9563889ce1&uid=0000&oem_id=14000&event=4682672_vod_UNHWomensBasketballvsBinghamton2616
 
 #EXTINF:0,2.09.2016 7:00 PM EST - Johns Hopkins at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
