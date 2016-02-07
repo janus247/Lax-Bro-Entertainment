@@ -2,6 +2,15 @@
 #EXTINF:-1,[COLOR maroon][B][UPPERCASE]Boston University Terriers Lacrosse Archive[/UPPERCASE][/B][/COLOR]
 http://www.google.com
 
+#EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
+http://www.google.com
+
+#EXTINF:0,2.06.2016 1:00 PM EST - Providence at Boston University - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+http://api.new.livestream.com/accounts/6846136/events/4711793/videos/111634036.m3u8
+
+#EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
+http://www.google.com
+
 #EXTINF:0,4.17.2015 Holy Cross at Boston University
 http://api.new.livestream.com/accounts/6846136/events/3763139/videos/84280551.m3u8
 

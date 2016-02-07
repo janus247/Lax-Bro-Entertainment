@@ -1,6 +1,15 @@
 #EXTINF:-1,[COLOR red][B][UPPERCASE]Northeast Conference Lacrosse Archive[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
+www.google.com
+
+#EXTINF:0,2.06.2016 1:00 PM EST - Manhattan at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+http://api.new.livestream.com/accounts/9570474/events/3351806/videos/111632909.m3u8
+
+#EXTINF:-1,[COLOR yellow][B][UPPERCASE]2015 Season[/UPPERCASE][/B][/COLOR]
+www.google.com
+
 #EXTINF:0,5.2.2015 Bryant vs. Saint Joseph's (NEC Championship) 	
 http://api.new.livestream.com/accounts/9570485/events/4017116/videos/85915055.m3u8
 
