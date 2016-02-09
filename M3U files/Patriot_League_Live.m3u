@@ -10,12 +10,6 @@ www.google.com
 #EXTINF:0,2.09.2016 7:00 PM EST - Johns Hopkins at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
 
-#EXTINF:0,[COLOR yellow][B]Friday, February 12, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:0,2.12.2016 7:00 PM EST - Stetson at Fresno State - for best viewing experience visit MWN at http://campusinsiders.com/network/mw/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Stetson+at+Fresno+State&event_id=4668238&owner_id=14595993&video_id=LIVE
-
 #EXTINF:0,[COLOR yellow][B]Saturday, February 13, 2016[/B][/COLOR]
 www.google.com
 
