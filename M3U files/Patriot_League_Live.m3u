@@ -4,8 +4,23 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.[/B][/COLOR]
 www.google.com
 
+#EXTINF:0,[COLOR yellow][B]Friday, February 12, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,2.12.2016 12:00 PM EST -U Mass Lowell at Boston - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=4711793&owner_id=6846136&video_id=LIVE
+
+#EXTINF:0,2.12.2016 12:30 PM EST - Massachusetts at Army West Pont - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=4714965&owner_id=6846277&video_id=LIVE
+
+#EXTINF:0,2.12.2016 5:00 PM EST - Sacred Heart at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=4711886&owner_id=6846185&video_id=LIVE
+
 #EXTINF:0,[COLOR yellow][B]Saturday, February 13, 2016[/B][/COLOR]
 www.google.com
+
+#EXTINF:0,2.13.2016 11:45 AM EST - Mercer at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
 
 #EXTINF:0,2.13.2016 12:00 PM EST - Manhattan at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=3943471&owner_id=9570483&video_id=LIVE
@@ -31,11 +46,20 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sac
 #EXTINF:0,2.20.2016 1:00 PM EST - VMI at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
 
+#EXTINF:0,2.20.2016 1:45 PM EST - Mt. St. Mary's at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
+
 
 #EXTINF:0,[COLOR yellow][B]Friday, February 26, 2016[/B][/COLOR]
 www.google.com
 #EXTINF:0,2.26.16 7:45 PM EST MCLA SLC Game of the Week - UCLA at Chapman - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=3gHA6LUgshM
+
+#EXTINF:0,[COLOR yellow][B]Saturday, February 27, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,2.27.2016 11:45 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
 
 #EXTINF:0,[COLOR yellow][B]Friday, March 4, 2016[/B][/COLOR]
 www.google.com
@@ -46,6 +70,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=aBOjefMv4J0
 #EXTINF:0,[COLOR yellow][B]Saturday, March 5, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:0,3.5.2016 11:45 AM EST - UMBC at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
+
 #EXTINF:0,3.5.16 7:50 PM EST MCLA LAX Coaches vs Cancer - Texas vs UNLV - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=BkfARS-CJEg
 
@@ -55,14 +82,26 @@ www.google.com
 #EXTINF:0,3.13.16 3:50 PM EST MCLA SLC Game of the Week - Colorado at Chapman - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=wRt-OCxizWo
 
+#EXTINF:0,[COLOR yellow][B]Saturday, March 19, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,3.18.2016 11:45 AM EDT - Furman at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
+
 #EXTINF:0,[COLOR yellow][B]Saturday, March 26, 2016[/B][/COLOR]
 www.google.com
+
+#EXTINF:0,3.26.2016 2:45 PM EDT - Binghamton at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
 
 #EXTINF:0,3.26.16 3:50 PM EST MCLA SLC Game of the Week - CSU Fullerton at Concordia - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=P8pSYHJKZK0
 
 #EXTINF:0,[COLOR yellow][B]Saturday, April 2, 2016[/B][/COLOR]
 www.google.com
+
+#EXTINF:0,4.2.2016 11:45 AM EDT - Drexel at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
 
 #EXTINF:0,4.2.16 3:50 PM EST MCLA SLC Game of the Week - UCLA at Claremont - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=LXRRTRuLqM8
@@ -76,6 +115,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=45N7Lf1INQw
 #EXTINF:0,[COLOR yellow][B]Saturday, April 16, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:0,4.16.2016 11:45 AM EDT - Delaware at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
+
 #EXTINF:0,4.16.16 5:50 PM EST MCLA SLC Game of the Week - Chapman at UC Santa Barbara   - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=WxpUAo_yHMI
 
+#EXTINF:0,[COLOR yellow][B]Saturday, April 23, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,4.23.2016 11:45 AM EDT - Fairfield at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+http://portal.stretchinternet.com/towson/
