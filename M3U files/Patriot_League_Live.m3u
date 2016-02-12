@@ -8,13 +8,13 @@ www.google.com
 www.google.com
 
 #EXTINF:0,2.12.2016 12:00 PM EST -U Mass Lowell at Boston - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=4711793&owner_id=6846136&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=U+Mass+Lowell+at+Boston+U&event_id=4711793&owner_id=6846136&video_id=LIVE
 
-#EXTINF:0,2.12.2016 12:30 PM EST - Massachusetts at Army West Pont - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=4714965&owner_id=6846277&video_id=LIVE
+#EXTINF:0,2.12.2016 12:30 PM EST - Massachusetts at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Massachusetts+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=LIVE
 
 #EXTINF:0,2.12.2016 5:00 PM EST - Sacred Heart at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=4711886&owner_id=6846185&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Sacred+Heart+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=LIVE
 
 #EXTINF:0,[COLOR yellow][B]Saturday, February 13, 2016[/B][/COLOR]
 www.google.com
@@ -23,7 +23,7 @@ www.google.com
 http://portal.stretchinternet.com/towson/
 
 #EXTINF:0,2.13.2016 12:00 PM EST - Manhattan at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Bryant&event_id=3943471&owner_id=9570483&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Wagner&event_id=3943471&owner_id=9570483&video_id=LIVE
 
 #EXTINF:0,2.13.2016 12:55 PM EST - UMBC vs. John Hopkins by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-wscr-albany.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wscr-albany/as/live/wscr-albany_hd_3000.m3u8
@@ -34,11 +34,27 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Brya
 #EXTINF:0,2.13.2016 1:00 PM EST - Denver at Air Force - - for best viewing experience visit MWN at http://campusinsiders.com/network/mw/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Denver+at+Air+Force&event_id=4694103&owner_id=14595985&video_id=LIVE
 
+#EXTINF:0,[COLOR yellow][B]Saturday, February 19, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,2.19.2016 4:00 PM EST - Wagner at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Wagner+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=LIVE
+
+
 #EXTINF:0,[COLOR yellow][B]Saturday, February 20, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:0,2.20.2016 12:55 PM EST - Denison at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 http://portal.stretchinternet.com/wandl/
+
+#EXTINF:0,2.20.2016 1:00 PM EST - Binghamton at Colgate - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Binghamton+at+Colgate&event_id=4711836&owner_id=6846161video_id=LIVE
+
+#EXTINF:0,2.20.2016 1:00 PM EST - Hartford at Boston - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Hartford+at+Boston&event_id=4711793&owner_id=6846136&video_id=LIVE
+
+#EXTINF:0,2.20.2016 1:00 PM EST - Johns Hopkins at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
 
 #EXTINF:0,2.20.2016 1:00 PM EST - Dartmouth at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sacred+Heart&event_id=3903811&owner_id=9570480&video_id=LIVE
@@ -49,6 +65,11 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Jos
 #EXTINF:0,2.20.2016 1:45 PM EST - Mt. St. Mary's at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
 http://portal.stretchinternet.com/towson/
 
+#EXTINF:0,2.20.2016 2:30 PM EST - Rutgers at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Rutgers+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=LIVE
+
+#EXTINF:0,2.20.2016 2:30 PM EST - Vermont at Holy Cross - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Vermont+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=LIVE
 
 #EXTINF:0,[COLOR yellow][B]Friday, February 26, 2016[/B][/COLOR]
 www.google.com
