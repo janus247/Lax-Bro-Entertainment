@@ -8,7 +8,7 @@ www.google.com
 www.google.com
 
 #EXTINF:0,2.13.2016 1:00 PM EST - Saint Leo v. Emmanuel - for best viewing experience visit Saint Leo Stretch Internet Portal at http://portal.stretchinternet.com/saintleo/
-rtmp://23.108.62.7:1935/flash3/saintleovideo
+rtmp://23.108.62.7:1935/flash3/saintleovideo/
 
 #EXTINF:0,2.13.2016 1:00 PM EST - Bucknell at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Bryant&event_id=3351806&owner_id=9570474&video_id=LIVE
