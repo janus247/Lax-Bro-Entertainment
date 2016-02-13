@@ -5,5 +5,5 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
-#EXTINF:0,2.12.2016 - Sacred Heart at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-http://api.new.livestream.com/accounts/6846185/events/4711886/videos/112177041.m3u8
+#EXTINF:0,2.12.2016 - Sacred Heart at Lafayette - for best viewing experience visit Livestream at http://livestream.com/lafayette/lafayettemlax-15-16
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Sacred+Heart+at+Lafayette&event_id=4694103&owner_id=14595985&video_id=112177041
