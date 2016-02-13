@@ -3,6 +3,8 @@ www.google.com
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
+
+#EXTINF:0,5.06.2015 Mercer at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269288&streamType=video
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-269288-v.mp4
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2015 Season[/UPPERCASE][/B][/COLOR]
