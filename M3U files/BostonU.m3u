@@ -5,7 +5,10 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
-#EXTINF:0,2.06.2016 1:00 PM EST - Providence at Boston University - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+#EXTINF:0,2.12.2016 - U Mass Lowell at Boston U. - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live 
+http://api.new.livestream.com/accounts/6846136/events/4711793/videos/112157949.m3u8
+
+#EXTINF:0,2.06.2016 - Providence at Boston U. - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 http://api.new.livestream.com/accounts/6846136/events/4711793/videos/111634036.m3u8
 
 #EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]

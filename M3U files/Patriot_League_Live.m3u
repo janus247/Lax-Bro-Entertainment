@@ -4,18 +4,6 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR yellow][B]Friday, February 12, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:0,2.12.2016 12:00 PM EST -U Mass Lowell at Boston - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=U+Mass+Lowell+at+Boston+U&event_id=4711793&owner_id=6846136&video_id=LIVE
-
-#EXTINF:0,2.12.2016 12:30 PM EST - Massachusetts at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Massachusetts+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=LIVE
-
-#EXTINF:0,2.12.2016 5:00 PM EST - Sacred Heart at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Sacred+Heart+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=LIVE
-
 #EXTINF:0,[COLOR yellow][B]Saturday, February 13, 2016[/B][/COLOR]
 www.google.com
 
