@@ -7,20 +7,19 @@ www.google.com
 #EXTINF:0,[COLOR yellow][B]Saturday, February 13, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,2.13.2016 11:45 AM EST - Mercer at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
-http://portal.stretchinternet.com/towson/
-
-#EXTINF:0,2.13.2016 12:00 PM EST - Manhattan at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Wagner&event_id=3943471&owner_id=9570483&video_id=LIVE
-
 #EXTINF:0,2.13.2016 12:55 PM EST - UMBC vs. John Hopkins by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-wscr-albany.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wscr-albany/as/live/wscr-albany_hd_3000.m3u8
 
+#EXTINF:0,2.13.2016 1:00 PM EST - Saint Leo v. Emmanuel - for best viewing experience visit Saint Leo Stretch Internet Portal at http://portal.stretchinternet.com/saintleo/
+http://portal.stretchinternet.com/saintleo/
+
 #EXTINF:0,2.13.2016 1:00 PM EST - Bucknell at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Bryant&event_id=3988757&owner_id=9570474&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Bryant&event_id=3351806&owner_id=9570474&video_id=LIVE
 
 #EXTINF:0,2.13.2016 1:00 PM EST - Denver at Air Force - - for best viewing experience visit MWN at http://campusinsiders.com/network/mw/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Denver+at+Air+Force&event_id=4694103&owner_id=14595985&video_id=LIVE
+
+
 
 #EXTINF:0,[COLOR yellow][B]Friday, February 19, 2016[/B][/COLOR]
 www.google.com
@@ -69,6 +68,9 @@ www.google.com
 
 #EXTINF:0,2.27.2016 11:45 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
 http://portal.stretchinternet.com/towson/
+
+#EXTINF:0,2.27.2016 12:50 AM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
+http://portal.stretchinternet.com/kenyon/
 
 #EXTINF:0,[COLOR yellow][B]Friday, March 4, 2016[/B][/COLOR]
 www.google.com

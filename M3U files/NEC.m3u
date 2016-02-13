@@ -4,7 +4,10 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:0,2.06.2016 1:00 PM EST - Manhattan at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+#EXTINF:0,2.12.2016 - Manhattan at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Wagner&event_id=4814258&owner_id=9570483&video_id=112172556
+
+#EXTINF:0,2.06.2016 - Manhattan at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 http://api.new.livestream.com/accounts/9570474/events/3351806/videos/111632909.m3u8
 
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2015 Season[/UPPERCASE][/B][/COLOR]
