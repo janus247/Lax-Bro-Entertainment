@@ -10,10 +10,10 @@ www.google.com
 #EXTINF:0,2.13.2016 1:00 PM EST - Saint Leo v. Emmanuel - for best viewing experience visit Saint Leo Stretch Internet Portal at http://portal.stretchinternet.com/saintleo/
 rtmp://23.108.62.7:1935/flash3/saintleovideo/
 
-#EXTINF:0,2.13.16 2:50 PM EST MCLA SLC Game of the Week - Oregon State v. Arizona St. - for best viewing experience visit Youtube https://www.youtube.com/watch?v=fzq1tojhm8k
+#EXTINF:0,2.13.16 3:05 PM EST MCLA SLC Game of the Week - Oregon State v. Arizona St. - for best viewing experience visit Youtube https://www.youtube.com/watch?v=fzq1tojhm8k
 plugin://plugin.video.youtube/?action=play_video&videoid=fzq1tojhm8k
 
-#EXTINF:0,2.13.16 5:25 PM EST MCLA SLC Game of the Week - Washington v. UCLA - for best viewing experience visit Youtube https://www.youtube.com/watch?v=XPrCY0Qwu3o
+#EXTINF:0,2.13.16 5:35 PM EST MCLA SLC Game of the Week - Washington v. UCLA - for best viewing experience visit Youtube https://www.youtube.com/watch?v=XPrCY0Qwu3o
 plugin://plugin.video.youtube/?action=play_video&videoid=XPrCY0Qwu3o
 
 #EXTINF:0,2.13.16 7:00 PM EST - Florida Tech v. N. Greenville - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/saintleo/portal.htm?eventId=268031&streamType=video
