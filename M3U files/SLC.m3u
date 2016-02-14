@@ -5,6 +5,12 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:0,2.13.16 MCLA SLC Game of the Week - Washington v. UCLA - for best viewing experience visit Youtube https://www.youtube.com/watch?v=XPrCY0Qwu3o
+plugin://plugin.video.youtube/?action=play_video&videoid=XPrCY0Qwu3o
+
+#EXTINF:0,2.13.16 MCLA SLC Game of the Week - Oregon State v. Arizona St. - for best viewing experience visit Youtube https://www.youtube.com/watch?v=fzq1tojhm8k
+plugin://plugin.video.youtube/?action=play_video&videoid=fzq1tojhm8k
+
 #EXTINF:0,2.6.16 MCLA SLC Game of the Week - UNLV v. SDSU - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=poOfb7Z73Jw
 
