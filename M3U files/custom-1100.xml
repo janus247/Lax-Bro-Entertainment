@@ -1,0 +1,38 @@
+<?xml version="1.0" ?> 
+<window id="1100" type="dialog">
+  <defaultcontrol>2</defaultcontrol>
+  <coordinates>
+    <posX>200</posX>
+    <posY>100</posY>
+  </coordinates>
+   <controls>
+  <onclick>ActivateWindow(1100)</onclick>
+  </controls>
+  </window>
+<items>
+<item>
+<title>3.24.2015 Maryland at Robert Morris</title> 
+<link>http://api.new.livestream.com/accounts/9570479/events/3914199/videos/81447287.m3u8</link> 
+<thumbnail>special://home/addons/plugin.video.laxbro/resources/media/Big10.png</thumbnail> 
+</item>
+<item>
+<title>3.21.2015 Penn State vs Denver</title> 
+<link>rtmp://o2.stretchinternet.com:1935/ondemand/mp4:hofstra/hofstra-208503-v.mp4</link> 
+<thumbnail>special://home/addons/plugin.video.laxbro/resources/media/Big10.png</thumbnail> 
+</item>
+<item>
+<title>3.17.2015 Ohio State at Towson</title> 
+<link>rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-205709-v.mp4</link> 
+<thumbnail>special://home/addons/plugin.video.laxbro/resources/media/Big10.png</thumbnail> 
+</item>
+<item>
+<title>2.14.2015 Penn State at Loyola</title>
+<link>http://api.new.livestream.com/accounts/6846238/events/3763250/videos/77115803.m3u8</link>
+<thumbnail>special://home/addons/plugin.video.laxbro/resources/media/Big10.png</thumbnail>
+</item>
+<item>
+<title>2.14.2015 Maryland at Navy</title>
+<link>http://api.new.livestream.com/accounts/6846224/events/3763228/videos/77116389.m3u8</link>
+<thumbnail>special://home/addons/plugin.video.laxbro/resources/media/Big10.png</thumbnail>
+</item>
+</items>
