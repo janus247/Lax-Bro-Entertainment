@@ -2,35 +2,41 @@
 #EXTINF:-1,[COLOR orange][B][UPPERCASE]Bucknell Bison Lacrosse Archive[/UPPERCASE][/B][/COLOR]
 http://www.google.com
 
-#EXTINF:0,4.21.15 Lehigh at Bucknell Patriot League Quarterfinal
+#EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
+http://www.google.com
+
+
+#EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
+http://www.google.com
+
+#EXTINF:0,4.21.15 Lehigh at Bucknell Patriot League Quarterfinal - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/84712445.m3u8
 
-#EXTINF:0,4.17.15 Loyola at Bucknell
+#EXTINF:0,4.17.15 Loyola at Bucknell - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/84283442.m3u8
 
-#EXTINF:0,4.4.2015 Bucknell at Mount St. Mary's
+#EXTINF:0,4.4.2015 Bucknell at Mount St. Mary's - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/9570478/events/3943436/videos/82777732.m3u8
 
-#EXTINF:0,3.28.15 Army at Bucknell
+#EXTINF:0,3.28.15 Army at Bucknell - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/81877952.m3u8
 
-#EXTINF:0,3.21.2015 Bucknell at Boston University
+#EXTINF:0,3.21.2015 Bucknell at Boston University - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846136/events/3763139/videos/80256547.m3u8
 
-#EXTINF:0,3.14.15 Holy Cross at Bucknell 
+#EXTINF:0,3.14.15 Holy Cross at Bucknell - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/80254097.m3u8
 
-
-#EXTINF:0,3.10.15 Fairfield at Bucknell 
+#EXTINF:0,3.10.15 Fairfield at Bucknell - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/79779196.m3u8
 
-#EXTINF:0,3.8.15 Bucknell at Lehigh
+#EXTINF:0,3.8.15 Bucknell at Lehigh - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846207/events/3763203/videos/79400909.m3u8
 
-#EXTINF:0,2.28.15 Colgate at Bucknell 
+#EXTINF:0,2.28.15 Colgate at Bucknell - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/78629081.m3u8
 
-#EXTINF:0,2.21.15 Bucknell at Navy
+#EXTINF:0,2.21.15 Bucknell at Navy - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846224/events/3763228/videos/77816097.m3u8
 
 

@@ -2,38 +2,44 @@
 #EXTINF:-1,[COLOR green][B][UPPERCASE]Loyola Greyhounds Lacrosse Archive[/UPPERCASE][/B][/COLOR]
 www.google.com
 
-#EXTINF:0,4.21.15 Army at Loyola Patriot League Quarterfinal
+#EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
+http://www.google.com
+
+
+#EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
+http://www.google.com
+
+#EXTINF:0,4.21.15 Army at Loyola Patriot League Quarterfinal - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/84701722.m3u8
 
-#EXTINF:0,04.17.15 Loyola at Bucknell
+#EXTINF:0,04.17.15 Loyola at Bucknell - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/84283442.m3u8
 
-#EXTINF:0,4.11.2015 Loyola at Boston University (Part 1) 
+#EXTINF:0,4.11.2015 Loyola at Boston University (Part 1) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html 
 http://api.new.livestream.com/accounts/6846136/events/3763139/videos/83584295.m3u8
 
-#EXTINF:0,4.11.2015 Loyola at Boston University (Part 2) 
+#EXTINF:0,4.11.2015 Loyola at Boston University (Part 2) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html 
 http://api.new.livestream.com/accounts/6846136/events/3763139/videos/83583867.m3u8
 
-
-#EXTINF:0,4.4.15 Navy at Loyola
+#EXTINF:0,4.4.15 Navy at Loyola - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/82794004.m3u8
 
-#EXTINF:0,3.18.15 Georgetown at Loyola (Part 1)
+#EXTINF:0,3.18.15 Georgetown at Loyola (Part 1) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/80734255.m3u8
 
-#EXTINF:0,3.18.15 Georgetown at Loyola (Part 2)
+#EXTINF:0,3.18.15 Georgetown at Loyola (Part 2) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/80742438.m3u8
 
-#EXTINF:0,2.28.15 Lehigh at Loyola
+#EXTINF:0,2.28.15 Lehigh at Loyola - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/78632453.m3u8
 
-#EXTINF:0,2.14.15 Penn State at Loyola
+#EXTINF:0,2.14.15 Penn State at Loyola - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/77115803.m3u8
 
-#EXTINF:0,2.7.15 Virginia at Loyola Men's Lacrosse (1st Half)
+#EXTINF:0,2.7.15 Virginia at Loyola Men's Lacrosse (1st Half) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/76382348.m3u8
 
-#EXTINF:0,2.7.15 Virginia at Loyola(2nd Half)
+#EXTINF:0,2.7.15 Virginia at Loyola(2nd Half) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846238/events/3763250/videos/76390184.m3u8
 
 

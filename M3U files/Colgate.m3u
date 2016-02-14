@@ -2,19 +2,26 @@
 #EXTINF:-1,[COLOR red][B][UPPERCASE]Colgate Raiders Lacrosse Archive[/UPPERCASE][/B][/COLOR]
 http://www.google.com
 
-#EXTINF:0,4.11.15 Colgate at Holy Cross
+#EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
+http://www.google.com
+
+
+#EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
+http://www.google.com
+
+#EXTINF:0,4.11.15 Colgate at Holy Cross - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846167/events/3763105/videos/83583114.m3u8
 
-#EXTINF:0,4.4.15 Lehigh at Colgate 
+#EXTINF:0,4.4.15 Lehigh at Colgate - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846161/events/3763167/videos/82795256.m3u8
 
-#EXTINF:0,3.21.15 Navy at Colgate 
+#EXTINF:0,3.21.15 Navy at Colgate - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html 
 http://api.new.livestream.com/accounts/6846161/events/3763167/videos/81052513.m3u8
 
-#EXTINF:0,3.07.15 Boston University at Colgate
+#EXTINF:0,3.07.15 Boston University at Colgate - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846161/events/3763167/videos/79420528.m3u8
 
-#EXTINF:0,2.28.15 Colgate at Bucknell
+#EXTINF:0,2.28.15 Colgate at Bucknell - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846151/events/3763119/videos/78629081.m3u8
 
 
