@@ -41,6 +41,21 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Rutgers+at+Army+
 #EXTINF:0,2.20.2016 2:30 PM EST - Vermont at Holy Cross - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Vermont+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=LIVE
 
+#EXTINF:0,[COLOR yellow][B]Sunday, February 21, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,2.21.2016 12:00 PM EST - VMI at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=LIVE
+
+#EXTINF:0,2.21.2016 12:00 PM EST - Delaware at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Delaware+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE	
+
+#EXTINF:0,[COLOR yellow][B]Wednesday, February 23, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,2.23.2016 3:00 PM E.S.T. - Monmouth at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Monmouth+at+Wagner&event_id=4814258&owner_id=9570483&video_id=112172556
+
 #EXTINF:0,[COLOR yellow][B]Friday, February 26, 2016[/B][/COLOR]
 www.google.com
 
