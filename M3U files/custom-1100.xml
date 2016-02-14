@@ -5,9 +5,36 @@
     <posX>200</posX>
     <posY>100</posY>
   </coordinates>
-   <controls>
-  <onclick>ActivateWindow(1100)</onclick>
-  </controls>
+   <control type="button" id="1">
+      <description>Big Ten Archive</description>
+      <posx>80</posx>
+      <posy>60</posy>
+      <width>250</width>
+      <height>200</height>
+      <visible>true</visible>
+      <colordiffuse>FFFFFFFF</colordiffuse>
+      <texturefocus colordiffuse="FFFFAAFF">myfocustexture.png</texturefocus>
+      <texturenofocus colordiffuse="FFFFAAFF">mynormaltexture.png</texturenofocus>
+      <label>29</label>
+      <wrapmultiline>true</wrapmultiline>
+      <font>font12</font>
+      <textcolor>FFFFFFFF</textcolor>
+      <focusedcolor>FFFFFFFF</focusedcolor>
+      <disabledcolor>80FFFFFF</disabledcolor>
+      <invalidcolor>FFFFFFFF</invalidcolor>
+      <align></align>
+      <aligny></aligny>
+      <textoffsetx></textoffsetx>
+      <textoffsety></textoffsety>
+      <pulseonselect></pulseonselect>
+      <onclick>ActivateWindow(1100)</onclick>
+      <onfocus>-</onfocus>
+      <onunfocus>-</onunfocus>
+      <onup>2</onup>
+      <ondown>3</ondown>
+      <onleft>1</onleft>
+      <onright>1</onright>
+</control>
   </window>
 <items>
 <item>
