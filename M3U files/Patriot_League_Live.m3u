@@ -56,6 +56,9 @@ www.google.com
 #EXTINF:0,2.23.2016 3:00 PM E.S.T. - Monmouth at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Monmouth+at+Wagner&event_id=4814258&owner_id=9570483&video_id=112172556
 
+#EXTINF:0,2.23.16 3:15 PM EST - Keene State vs W. New England - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.82.149.11:1935/flash3/keenevideo/
+
 #EXTINF:0,[COLOR yellow][B]Friday, February 26, 2016[/B][/COLOR]
 www.google.com
 
@@ -71,8 +74,18 @@ rtmp://23.108.62.4:1935/flash2/towsonvideo/
 #EXTINF:0,2.27.2016 12:00 PM EST - Drexel at Albany by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-wlax-aec-unh.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wlax-aec-unh/as/live/wlax-aec-unh_hd_3000.m3u8
 
+#EXTINF:0,2.27.16 12:45 PM EST - Keene State vs RPI - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.82.149.11:1935/flash3/keenevideo/
+
 #EXTINF:0,2.27.2016 12:50 AM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
 rtmp://3.108.62.5:1935/flash3/kenyonvideo/
+
+#EXTINF:0,[COLOR yellow][B]Saturday, March 2, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,3.2.16 3:45 PM EST - Keene State vs Tufts - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.108.62.5:1935/flash3/keenevideo/
+
 
 #EXTINF:0,[COLOR yellow][B]Saturday, March 5, 2016[/B][/COLOR]
 www.google.com
@@ -117,6 +130,9 @@ rtmp://23.108.15.9:1935/flash1/wandlvideo/
 #EXTINF:0,[COLOR yellow][B]Wedbesday, March 23, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:0,3.23.16 12:40 PM EST - Keene State vs UMass Dartmouth - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.108.15.6:1935/flash3/umassdvideo/
+
 #EXTINF:0,3.23.2016 4:00 PM EDT - Scranton vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.108.203.6:1935/flash3/fandmvideohd/
 
@@ -155,11 +171,20 @@ www.google.com
 #EXTINF:0,4.16.2016 12:00 PM EDT - Delaware at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
 rtmp://23.82.149.5:1935/flash2/towsonvideo/
 
+#EXTINF:0,3.9.16 12:45 PM EST - Keene State vs W. Connecticut St. - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.108.203.11:1935/flash3/keenevideo/
+
 #EXTINF:0,4.16.2016 12:55 PM EDT - Swarthmore vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.108.15.5:1935/flash3/fandmvideohd/
 
 #EXTINF:0,4.16.2016 3:00 PM EDT - Sheanandoah at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://eb2.stretchinternet.com:1935/flash1/wandlvideo2/
+
+#EXTINF:0,[COLOR yellow][B]Wednesday, April 20, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,4.20.16 12:45 PM EDT - Keene State vs Plymouth St. - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.82.149.11:1935/flash3/plymouthvideo2/
 
 #EXTINF:0,[COLOR yellow][B]Saturday, April 23, 2016[/B][/COLOR]
 www.google.com
@@ -173,11 +198,26 @@ rtmp://23.82.149.6:1935/flash4/haverfordvideo3/
 #EXTINF:0,4.23.2016 1:00 PM EDT - Roanoke at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://23.108.203.16:1935/flash1/wandlvideo/
 
+#EXTINF:0,4.23.16 4:45 PM EDT - Keene State vs UMass Dartmouth - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.108.15.6:1935/flash3/umassdvideo/
+
+#EXTINF:0,[COLOR yellow][B]Tuesday, April 26, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,4.26.16 4:45 PM EDT - Keene State vs Salem St. - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.108.15.5:1935/flash3/keenevideo/
+
 #EXTINF:0,[COLOR yellow][B]Wednesday, April 27, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:0,4.27.2016 6:55 PM EDT - Washington & Lee at Randolph - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://23.108.62.7:1935/flash2/randolphvideo/
+
+#EXTINF:0,[COLOR yellow][B]Friday, April 29, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:0,4.29.16 6:45 PM EDT - Keene State vs Salem St. - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
+rtmp://23.108.203.16:1935/flash3/keenevideo/
 
 #EXTINF:0,[COLOR yellow][B]Saturday, April 30, 2016[/B][/COLOR]
 www.google.com
