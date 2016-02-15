@@ -50,7 +50,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Army+West
 #EXTINF:0,2.21.2016 12:00 PM EST - Delaware at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Delaware+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE	
 
-#EXTINF:0,[COLOR yellow][B]Wednesday, February 23, 2016[/B][/COLOR]
+#EXTINF:0,[COLOR yellow][B]Tuesday, February 23, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:0,2.23.2016 3:00 PM E.S.T. - Monmouth at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
@@ -80,7 +80,7 @@ rtmp://23.82.149.11:1935/flash3/keenevideo/
 #EXTINF:0,2.27.2016 12:50 AM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
 rtmp://3.108.62.5:1935/flash3/kenyonvideo/
 
-#EXTINF:0,[COLOR yellow][B]Saturday, March 2, 2016[/B][/COLOR]
+#EXTINF:0,[COLOR yellow][B]Wednesday, March 2, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:0,3.2.16 3:45 PM EST - Keene State vs Tufts - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
@@ -127,7 +127,7 @@ rtmp://23.108.15.6:1935/flash2/towsonvideo/
 #EXTINF:0,3.19.2016 6:55 PM EDT - Virginia Wesleyan vs Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://23.108.15.9:1935/flash1/wandlvideo/
 
-#EXTINF:0,[COLOR yellow][B]Wedbesday, March 23, 2016[/B][/COLOR]
+#EXTINF:0,[COLOR yellow][B]Wednesday, March 23, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:0,3.23.16 12:40 PM EST - Keene State vs UMass Dartmouth - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
