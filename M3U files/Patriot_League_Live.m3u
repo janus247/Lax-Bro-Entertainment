@@ -14,8 +14,11 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Wagner+at+Lafaye
 #EXTINF:-1,[COLOR yellow][B]Saturday, February 20, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,2.20.2016 12:50 PM EST - Cabrini vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.108.62.12:1935/flash4/haverfordvideo3/ timeout=10
+
 #EXTINF:-1,2.20.2016 12:55 PM EST - Denison at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
-rtmp://23.108.15.5:1935/flash1/wandlvideo/
+rtmp://23.108.15.5:1935/flash1/wandlvideo/ timeout=10
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Binghamton at Colgate - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Binghamton+at+Colgate&event_id=4711836&owner_id=6846161video_id=LIVE
@@ -33,10 +36,10 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sac
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
 
 #EXTINF:-1,2.20.16 1:00 PM EST - Centre v. Calvin - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
-rtmp://eb2.stretchinternet.com:1935/flash3/centrevideo/
+rtmp://eb2.stretchinternet.com:1935/flash3/centrevideo/ timeout=10
 
 #EXTINF:-1,2.20.2016 1:45 PM EST - Mt. St. Mary's at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
-rtmp://ed3.stretchinternet.com:1935/flash2/towsonvideo2/
+rtmp://ed3.stretchinternet.com:1935/flash2/towsonvideo2/ timeout=10
 
 #EXTINF:-1,2.20.2016 2:30 PM EST - Rutgers at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Rutgers+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=LIVE
@@ -60,19 +63,19 @@ www.google.com
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Monmouth+at+Wagner&event_id=4814258&owner_id=9570483&video_id=112172556
 
 #EXTINF:-1,2.23.16 3:15 PM EST - Keene State vs W. New England - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
-rtmp://23.82.149.11:1935/flash3/keenevideo/
+rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=10
 
 #EXTINF:0,[COLOR yellow][B]Friday, February 26, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,2.26.16 7:00 PM EST - Florida Tech v. Lenoir-Rhyne - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/fit/
-rtmp://23.108.15.7:1935/flash3/fithd/
+rtmp://23.108.15.7:1935/flash3/fithd/ timeout=10
 
 #EXTINF:0,[COLOR yellow][B]Saturday, February 27, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,2.27.2016 11:45 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
-rtmp://23.108.62.4:1935/flash2/towsonvideo/
+rtmp://23.108.62.4:1935/flash2/towsonvideo/ timeout=10
 
 #EXTINF:-1,2.27.2016 12:00 PM EST - Drexel at Albany by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-wlax-aec-unh.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wlax-aec-unh/as/live/wlax-aec-unh_hd_3000.m3u8
@@ -86,6 +89,12 @@ rtmp://3.108.62.5:1935/flash3/kenyonvideo/
 #EXTINF:-1,2.27.16 1:50 PM EST - Rhodes vs Huntingdon - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
 rtmp://23.82.149.8:1935/flash4/rhodesvideo3/
 
+#EXTINF:0,[COLOR yellow][B]Sunday, February 28, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:-1,2.28.2016 12:50 PM EST - Randolph-Macon vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.108.203.8:1935/flash4/haverfordvideo3/
+
 #EXTINF:0,[COLOR yellow][B]Monday, February 29, 2016[/B][/COLOR]
 www.google.com
 
@@ -98,8 +107,14 @@ www.google.com
 #EXTINF:-1,3.2.16 3:45 PM EST - Keene State vs Tufts - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
 rtmp://23.108.62.5:1935/flash3/keenevideo/
 
+#EXTINF:-1,3.2.16 3:45 PM EST - St. Mary's vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
+rtmp://23.82.149.11:1935/flash3/washcollvideohd/
+
 #EXTINF:-1,3.2.16 6:50 PM EST - Rhodes vs Hanover - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
 rtmp://23.108.62.4:1935/flash4/rhodesvideo3/
+
+#EXTINF:-1,3.2.2016 6:50 PM EST - Stockton vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.82.149.7:1935/flash4/haverfordvideo3/
 
 
 #EXTINF:0,[COLOR yellow][B]Saturday, March 5, 2016[/B][/COLOR]
@@ -117,14 +132,26 @@ rtmp://ed2.stretchinternet.com:1935/flash3/centrevideo/
 #EXTINF:-1,3.5.2016 1:55 PM EST - Washington & Lee at Franklin & Marshall - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.108.203.16:1935/flash3/fandmvideohd/
 
+#EXTINF:0,[COLOR yellow][B]Sunday, March 6, 2016[/B][/COLOR]
+www.google.com
+
 #EXTINF:-1,3.6.16 3:50 PM EST - Rhodes vs Drew - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
 rtmp://23.108.62.9:1935/flash4/rhodesvideo3/
+
+#EXTINF:0,[COLOR yellow][B]Monday, March 7, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:-1,3.7.16 6:55 PM EST - Oneonta St. vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
+rtmp://23.108.62.5:1935/flash3/washcollvideohd/
 
 #EXTINF:0,[COLOR yellow][B]Wednesday, March 9, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,3.9.2016 3:40 PM EST - UMass Dartmouth vs Mt. IDA - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/umb/
 rtmp://23.82.149.7:1935/flash3/umassdvideo/
+
+#EXTINF:-1,3.9.2016 3:50 PM EST - Gwynedd Mercy vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.108.62.6:1935/flash4/haverfordvideo3/
 
 #EXTINF:-1,3.9.16 3:50 PM EST - Rhodes vs Susquehanna - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
 rtmp://23.108.15.9:1935/flash4/rhodesvideo3/
@@ -137,6 +164,12 @@ www.google.com
 
 #EXTINF:-1,3.12.16 12:00 PM EST - Centre v. Sewanee - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
 rtmp://eb4.stretchinternet.com:1935/flash3/centrevideo/
+
+#EXTINF:-1,3.12.2016 12:50 PM EST - Wooster vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.82.149.5:1935/flash4/haverfordvideo3/
+
+#EXTINF:-1,3.12.16 12:55 PM EST - Berry vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
+rtmp://23.82.149.8:1935/flash3/washcollvideohd/
 
 #EXTINF:-1,3.12.2016 1:55 PM EST - Hampden-Sydney at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://23.108.203.6:1935/flash1/wandlvideo/
@@ -166,6 +199,9 @@ www.google.com
 #EXTINF:-1,3.19.2016 11:45 AM EDT - Furman vs Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
 rtmp://23.108.15.6:1935/flash2/towsonvideo/
 
+#EXTINF:-1,3.19.16 12:55 PM EST - Frostburg St. vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
+rtmp://23.82.149.10:1935/flash3/washcollvideohd/
+
 #EXTINF:-1,3.19.2016 6:55 PM EDT - Virginia Wesleyan vs Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://23.108.15.9:1935/flash1/wandlvideo/
 
@@ -188,6 +224,10 @@ rtmp://eb3.stretchinternet.com:1935/flash4/rhodesvideo3/
 #EXTINF:0,[COLOR yellow][B]Saturday, March 26, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,3.26.2016 12:50 PM EDT - Gettysburg vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.108.203.8:1935/flash4/haverfordvideo3/
+
+
 #EXTINF:-1,3.26.2016 1:00 PM EDT - Muhlenberg vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.82.149.7:1935/flash3/muhlenbergvideo/
 
@@ -202,6 +242,9 @@ rtmp://23.108.15.7:1935/flash4/rhodesvideo3/
 
 #EXTINF:0,[COLOR yellow][B]Wednesday, March 30, 2016[/B][/COLOR]
 www.google.com
+
+#EXTINF:-1,3.30.2016 6:50 PM EDT - Washington College vs Haverford - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.82.149.8:1935/flash3/washcollvideohd/
 
 #EXTINF:-1,3.30.2016 7:00 PM EDT - Ursinus vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.108.203.15:1935/flash3/fandmvideohd/
@@ -242,11 +285,23 @@ www.google.com
 #EXTINF:-1,4.9.2016 12:55 PM EDT - McDaniel vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.108.62.6:1935/flash3/fandmvideohd/
 
+#EXTINF:-1,4.9.2016 2:50 PM EDT - Dickinson vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.108.203.17:1935/flash4/haverfordvideo3/
+
+#EXTINF:-1,4.9.16 3:50 PM EDT - Muhlenberg vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
+rtmp://23.108.203.15:1935/flash3/muhlenbergvideo/
+
 #EXTINF:0,[COLOR yellow][B]Sunday, April 10, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,4.10.16 1:00 PM EDT - Centre v. Hendrix - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
 rtmp://ed4.stretchinternet.com:1935/flash3/centrevideo3/
+
+#EXTINF:0,[COLOR yellow][B]Wednesday, April 13, 2016[/B][/COLOR]
+www.google.com
+
+#EXTINF:-1,4.13.2016 6:30 PM EDT - Muhlenberg vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.108.62.7:1935/flash3/muhlenbergvideo/
 
 #EXTINF:0,[COLOR yellow][B]Saturday, April 16, 2016[/B][/COLOR]
 www.google.com
@@ -278,6 +333,9 @@ rtmp://23.108.203.6:1935/flash2/towsonvideo/
 #EXTINF:-1,4.23.16 12:40 PM EDT - Keene State vs UMass Dartmouth - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
 rtmp://23.108.15.6:1935/flash3/umassdvideo/
 
+#EXTINF:-1,4.23.2016 12:50 PM EDT - Franklin and Marshall vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.108.203.11:1935/flash4/haverfordvideo3/
+
 #EXTINF:-1,4.23.2016 1:00 PM EDT - Haverford vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.82.149.6:1935/flash4/haverfordvideo3/
 
@@ -293,8 +351,14 @@ rtmp://23.108.15.5:1935/flash3/keenevideo/
 #EXTINF:0,[COLOR yellow][B]Wednesday, April 27, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,4.27.2016 6:50 PM EDT - Ursinus vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
+rtmp://23.82.149.6:1935/flash4/haverfordvideo3/
+
 #EXTINF:-1,4.27.2016 6:55 PM EDT - Washington & Lee at Randolph - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://23.108.62.7:1935/flash2/randolphvideo/
+
+#EXTINF:-1,4.27.16 6:55 PM EDT - Swathmore vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
+rtmp://ed1.stretchinternet.com:1935/flash3/washcollvideohd/
 
 #EXTINF:0,[COLOR yellow][B]Friday, April 29, 2016[/B][/COLOR]
 www.google.com
@@ -304,6 +368,9 @@ rtmp://23.108.203.16:1935/flash3/keenevideo/
 
 #EXTINF:0,[COLOR yellow][B]Saturday, April 30, 2016[/B][/COLOR]
 www.google.com
+
+#EXTINF:-1,4.30.16 12:55 PM EDT - Gettysburg vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
+rtmp://ed3.stretchinternet.com:1935/flash3/washcollvideohd/
 
 #EXTINF:-1,4.30.2016 2:55 PM EDT - Dickinson vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.108.15.10:1935/flash3/fandmvideohd/
