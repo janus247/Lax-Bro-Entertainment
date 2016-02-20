@@ -4,13 +4,6 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR yellow][B]Friday, February 19, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,2.19.2016 4:00 PM EST - Wagner at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Wagner+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=LIVE
-
-
 #EXTINF:-1,[COLOR yellow][B]Saturday, February 20, 2016[/B][/COLOR]
 www.google.com
 
@@ -110,6 +103,9 @@ rtmp://3.108.62.5:1935/flash3/kenyonvideo/ timeout=15
 
 #EXTINF:-1,2.27.16 1:50 PM EST - Rhodes vs Huntingdon - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
 rtmp://23.82.149.8:1935/flash4/rhodesvideo3/ timeout=15
+
+#EXTINF:-1,2.27.16 2:30 PM EST - Hofstra vs Princeton - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
+rtmp://23.82.149.9:1935/flash2/hofstravideo/ timeout=15
 
 #EXTINF:-1,2.27.2016 7:00 PM EST - Christopher Newport vs Hampden Sydney - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/ycp/
 rtmp://23.108.203.11:1935/flash3/cnuvideohd/ timeout=15
