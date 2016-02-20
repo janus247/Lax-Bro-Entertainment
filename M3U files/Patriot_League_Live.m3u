@@ -86,6 +86,12 @@ www.google.com
 #EXTINF:-1,2.27.2016 11:45 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
 rtmp://23.108.62.4:1935/flash2/towsonvideo/ timeout=15
 
+#EXTINF:-1,2.27.2016 12:00 PM EST - Holy Cross at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
+
+#EXTINF:-1,2.27.2016 12:00 PM EST - Bucknell at Colgate - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Colgate&event_id=4711836&owner_id=6846161&video_id=LIVE
+
 #EXTINF:-1,2.20.2016 12:00 PM EST - Manhattan at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
 
@@ -100,6 +106,9 @@ rtmp://23.82.149.6:1935/flash3/muhlenbergvideo timeout=15
 
 #EXTINF:-1,2.27.2016 12:50 AM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
 rtmp://3.108.62.5:1935/flash3/kenyonvideo/ timeout=15
+
+#EXTINF:-1,2.27.2016 1:00 PM EST - Lafayette at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lafayette+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
 
 #EXTINF:-1,2.27.16 1:50 PM EST - Rhodes vs Huntingdon - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
 rtmp://23.82.149.8:1935/flash4/rhodesvideo3/ timeout=15
