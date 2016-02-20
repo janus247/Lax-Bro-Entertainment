@@ -20,7 +20,7 @@ rtmp://23.108.15.5:1935/flash1/wandlvideo/ timeout=20
 rtmp://23.108.62.12:1935/flash3/cnuvideohd3/ timeout=20
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Binghamton at Colgate - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Binghamton+at+Colgate&event_id=4711836&owner_id=6846161video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Binghamton+at+Colgate&event_id=4711836&owner_id=6846161&video_id=LIVE
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Hartford at Boston - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Hartford+at+Boston&event_id=4711793&owner_id=6846136&video_id=LIVE
