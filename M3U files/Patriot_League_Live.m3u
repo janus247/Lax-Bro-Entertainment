@@ -13,7 +13,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Rob
 #EXTINF:-1,2.20.2016 12:50 PM EST - Cabrini vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
 rtmp://23.108.62.12:1935/flash4/haverfordvideo3/ timeout=20
 
-#EXTINF:-1,2.20.2016 12:55 PM EST - Denison at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
+#EXTINF:-1,2.20.2016 12:50 PM EST - Denison at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
 rtmp://23.108.15.5:1935/flash1/wandlvideo/ timeout=20
 
 #EXTINF:-1,2.20.2016 12:50 PM EST - Christopher Newport vs Ferrum - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/ycp/
@@ -29,7 +29,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Hartford+at+Bost
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Dartmouth at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sacred+Heart&event_id=3903811&owner_id=9570480&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sacred+Heart&event_id=4851093&owner_id=9570480&video_id=LIVE
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - VMI at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
