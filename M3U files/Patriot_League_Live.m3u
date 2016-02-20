@@ -7,6 +7,9 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B]Saturday, February 20, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,2.20.2016 11:00 AM EST - Manhattan at Robert Morris - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Robert+Morriss&event_id=4850410&owner_id=9570479&video_id=LIVE
+
 #EXTINF:-1,2.20.2016 12:50 PM EST - Cabrini vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
 rtmp://23.108.62.12:1935/flash4/haverfordvideo3/ timeout=20
 
