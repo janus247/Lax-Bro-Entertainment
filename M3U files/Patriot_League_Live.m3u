@@ -31,11 +31,8 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at
 #EXTINF:-1,2.20.2016 1:00 PM EST - Dartmouth at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sacred+Heart&event_id=4851093&owner_id=9570480&video_id=LIVE
 
-#EXTINF:-1,2.20.2016 1:00 PM EST - VMI at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
-
 #EXTINF:-1,2.20.2016 1:00 PM EST - York v. Washington & Jefferson - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/ycp/
-rtmp://23.82.149.8:1935/flash3/ycpvideohd/ timeout=20
+rtmp://23.108.203.5:1935/flash3/ycpvideo/ timeout=20
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Frostburg St. vs Bridgewater (Va.) - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
 rtmp://23.82.149.11:1935/flash1/frostburgvideo/ timeout=20
