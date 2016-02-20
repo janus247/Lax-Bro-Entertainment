@@ -8,13 +8,13 @@ www.google.com
 www.google.com
 
 #EXTINF:-1,2.20.2016 12:50 PM EST - Cabrini vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.108.62.12:1935/flash4/haverfordvideo3/ timeout=15
+rtmp://23.108.62.12:1935/flash4/haverfordvideo3/ timeout=20
 
 #EXTINF:-1,2.20.2016 12:55 PM EST - Denison at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
-rtmp://23.108.15.5:1935/flash1/wandlvideo/ timeout=15
+rtmp://23.108.15.5:1935/flash1/wandlvideo/ timeout=20
 
 #EXTINF:-1,2.20.2016 12:50 PM EST - Christopher Newport vs Ferrum - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/ycp/
-rtmp://23.108.62.12:1935/flash3/cnuvideohd3/ timeout=15
+rtmp://23.108.62.12:1935/flash3/cnuvideohd3/ timeout=20
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Binghamton at Colgate - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Binghamton+at+Colgate&event_id=4711836&owner_id=6846161video_id=LIVE
@@ -32,16 +32,16 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sac
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Saint+Josephs&event_id=3903811&owner_id=9570480&video_id=LIVE
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - York v. Washington & Jefferson - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/ycp/
-rtmp://23.82.149.8:1935/flash3/ycpvideohd/ timeout=15
+rtmp://23.82.149.8:1935/flash3/ycpvideohd/ timeout=20
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Frostburg St. vs Bridgewater (Va.) - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://23.82.149.11:1935/flash1/frostburgvideo/ timeout=15
+rtmp://23.82.149.11:1935/flash1/frostburgvideo/ timeout=20
 
 #EXTINF:-1,2.20.2016 1:00 PM EST - Centre v. Calvin - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
-rtmp://eb2.stretchinternet.com:1935/flash3/centrevideo/ timeout=15
+rtmp://eb2.stretchinternet.com:1935/flash3/centrevideo/ timeout=20
 
 #EXTINF:-1,2.20.2016 1:45 PM EST - Mt. St. Mary's at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
-rtmp://ed3.stretchinternet.com:1935/flash2/towsonvideo2/ timeout=15
+rtmp://ed3.stretchinternet.com:1935/flash2/towsonvideo2/ timeout=20
 
 #EXTINF:-1,2.20.2016 2:30 PM EST - Rutgers at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Rutgers+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=LIVE
@@ -68,20 +68,20 @@ www.google.com
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Monmouth+at+Wagner&event_id=4814258&owner_id=9570483&video_id=112172556
 
 #EXTINF:-1,2.23.2016 3:15 PM EST - Keene State vs W. New England - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
-rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=15
+rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=20
 
 #EXTINF:0,[COLOR yellow][B]Wednesday, February 24, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,2.24.2016 7:00 PM EST - Christopher Newport vs Randolph-Macon - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/ycp/
-rtmp://23.108.15.11:1935/flash3/cnuvideohd/ timeout=15
+rtmp://23.108.15.11:1935/flash3/cnuvideohd/ timeout=20
 
 
 #EXTINF:0,[COLOR yellow][B]Friday, February 26, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,2.26.2016 7:00 PM EST - Florida Tech v. Lenoir-Rhyne - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/fit/
-rtmp://23.108.15.7:1935/flash3/fithd/ timeout=15
+rtmp://23.108.15.7:1935/flash3/fithd/ timeout=20
 
 #EXTINF:-1,2.26.16 7:45 PM EST MCLA SLC Game of the Week - UCLA at Chapman - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=3gHA6LUgshM
@@ -90,7 +90,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=3gHA6LUgshM
 www.google.com
 
 #EXTINF:-1,2.27.2016 11:45 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
-rtmp://23.108.62.4:1935/flash2/towsonvideo/ timeout=15
+rtmp://23.108.62.4:1935/flash2/towsonvideo/ timeout=20
 
 #EXTINF:-1,2.27.2016 12:00 PM EST - Holy Cross at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
@@ -105,70 +105,70 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Sai
 http://jtvs-wlax-aec-unh.cdnllnwnl.nlss.neulioncloud.com/nlds/jtvs/wlax-aec-unh/as/live/wlax-aec-unh_hd_3000.m3u8 timeout=15
 
 #EXTINF:-1,2.27.2016 12:00 PM EST - Frostburg St. vs Lebanon Valley - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://23.108.203.7:1935/flash1/frostburgvideo/ timeout=15
+rtmp://23.108.203.7:1935/flash1/frostburgvideo/ timeout=20
 
 #EXTINF:-1,2.27.2016 12:45 PM EST - Keene State vs RPI - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
-rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=15
+rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=20
 
 #EXTINF:-1,2.27.2016 12:50 PM EST - Scranton vs Muhlenberg - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
-rtmp://23.82.149.6:1935/flash3/muhlenbergvideo timeout=15
+rtmp://23.82.149.6:1935/flash3/muhlenbergvideo timeout=20
 
 #EXTINF:-1,2.27.2016 12:50 AM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
-rtmp://3.108.62.5:1935/flash3/kenyonvideo/ timeout=15
+rtmp://3.108.62.5:1935/flash3/kenyonvideo/ timeout=20
 
 #EXTINF:-1,2.27.2016 1:00 PM EST - Lafayette at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lafayette+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
 
 #EXTINF:-1,2.27.2016 1:00 PM EST - York v. McDaniel - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/ycp/
-rtmp://23.108.203.16:1935/flash3/ycpvideohd/ timeout=15
+rtmp://23.108.203.16:1935/flash3/ycpvideohd/ timeout=20
 
 #EXTINF:-1,2.27.16 1:50 PM EST - Rhodes vs Huntingdon - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
-rtmp://23.82.149.8:1935/flash4/rhodesvideo3/ timeout=15
+rtmp://23.82.149.8:1935/flash4/rhodesvideo3/ timeout=20
 
 #EXTINF:-1,2.27.16 2:30 PM EST - Hofstra vs Princeton - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
-rtmp://23.82.149.9:1935/flash2/hofstravideo/ timeout=15
+rtmp://23.82.149.9:1935/flash2/hofstravideo/ timeout=20
 
 #EXTINF:-1,2.27.2016 7:00 PM EST - Christopher Newport vs Hampden Sydney - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/ycp/
-rtmp://23.108.203.11:1935/flash3/cnuvideohd/ timeout=15
+rtmp://23.108.203.11:1935/flash3/cnuvideohd/ timeout=20
 
 #EXTINF:0,[COLOR yellow][B]Sunday, February 28, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,2.28.2016 12:50 PM EST - Randolph-Macon vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.108.203.8:1935/flash4/haverfordvideo3/ timeout=15
+rtmp://23.108.203.8:1935/flash4/haverfordvideo3/ timeout=20
 
 #EXTINF:-1,2.28.2016 1:00 PM EST - Denison vs Berry - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/denison/
-rtmp://ed3.stretchinternet.com:1935/flash3/denisonvideohd/ timeout=15
+rtmp://ed3.stretchinternet.com:1935/flash3/denisonvideohd/ timeout=20
 
 #EXTINF:-1,2.28.2016 2:00 PM EST - Frostburg St. vs Mount Union - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://ed1.stretchinternet.com:1935/flash1/frostburgvideo/ timeout=15
+rtmp://ed1.stretchinternet.com:1935/flash1/frostburgvideo/ timeout=20
 
 #EXTINF:0,[COLOR yellow][B]Monday, February 29, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,2.29.2016 6:40 PM EST - UMass Dartmouth vs MIT - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/umb/
-rtmp://23.82.149.7:1935/flash3/umassdvideo/ timeout=15
+rtmp://23.82.149.7:1935/flash3/umassdvideo/ timeout=20
 
 #EXTINF:0,[COLOR yellow][B]Wednesday, March 2, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,3.2.2016 3:45 PM EST - Keene State vs Tufts - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
-rtmp://23.108.62.5:1935/flash3/keenevideo/ timeout=15
+rtmp://23.108.62.5:1935/flash3/keenevideo/ timeout=20
 
 #EXTINF:-1,3.2.2016 3:45 PM EST - St. Mary's vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
-rtmp://23.82.149.11:1935/flash3/washcollvideohd/ timeout=15
+rtmp://23.82.149.11:1935/flash3/washcollvideohd/ timeout=20
 
 #EXTINF:-1,3.2.2016 4:00 PM EST - Emmanuel vs MIT - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/mit/
-rtmp://ed4.stretchinternet.com:1935/flash3/mitvideo/ timeout=15
+rtmp://ed4.stretchinternet.com:1935/flash3/mitvideo/ timeout=20
 
 #EXTINF:-1,3.2.2016 6:50 PM EST - Rhodes vs Hanover - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
-rtmp://23.108.62.4:1935/flash4/rhodesvideo3/ timeout=15
+rtmp://23.108.62.4:1935/flash4/rhodesvideo3/ timeout=20
 
 #EXTINF:-1,3.2.2016 6:50 PM EST - Stockton vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.82.149.7:1935/flash4/haverfordvideo3/ timeout=15
+rtmp://23.82.149.7:1935/flash4/haverfordvideo3/ timeout=20
 
 #EXTINF:-1,3.2.2016 7:00 PM EST - Frostburg St. vs Messiah - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://eb4.stretchinternet.com:1935/flash1/frostburgvideo/ timeout=15
+rtmp://eb4.stretchinternet.com:1935/flash1/frostburgvideo/ timeout=20
 
 #EXTINF:0,[COLOR yellow][B]Friday, March 4, 2016[/B][/COLOR]
 www.google.com
