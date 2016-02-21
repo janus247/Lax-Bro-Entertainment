@@ -7,15 +7,6 @@ www.google.com
 #EXTINF:0,[COLOR yellow][B]Sunday, February 21, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:-1,2.21.2016 12:00 PM EST - VMI at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=LIVE
-
-#EXTINF:-1,2.21.2016 12:00 PM EST - Delaware at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Delaware+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE	
-
-#EXTINF:-1,2.21.2016 3:50 PM EST MCLA SLC Game of the Week - USC at SDSU - for best viewing experience visit Youtube https://www.youtube.com/watch?v=bPphwcgDg8Q
-plugin://plugin.video.youtube/?action=play_video&videoid=bPphwcgDg8Q
-
 #EXTINF:0,[COLOR yellow][B]Tuesday, February 23, 2016[/B][/COLOR]
 www.google.com
 

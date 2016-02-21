@@ -5,6 +5,9 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,2.21.2016 12:00 PM EST - VMI at Army West Point - for best viewing experience visit PLN at https://livestream.com/army
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=113096486
+
 #EXTINF:-1,2.20.2016 Rutgers at Army West Point - for best viewing experience visit PLN at https://livestream.com/army
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Rutgers+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=112970560
 

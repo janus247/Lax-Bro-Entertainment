@@ -4,6 +4,9 @@ www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,2.20.2016 Johns Hopkins at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Johns+Hopkins+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=112957509
+
 #EXTINF:-1,2.20.2016 Rutgers at Army West Point - for best viewing experience visit PLN at https://livestream.com/army
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Rutgers+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=112970560
 
