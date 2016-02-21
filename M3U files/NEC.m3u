@@ -4,6 +4,12 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,2.20.2016 1:00 PM EST - Dartmouth at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Dartmouth+at+Sacred+Heart&event_id=4851093&owner_id=9570480&video_id=112959043
+
+#EXTINF:-1,2.20.2016 Manhattan at Robert Morris - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Robert+Morriss&event_id=4850410&owner_id=9570479&video_id=112945023
+
 #EXTINF:-1,2.19.2016 Wagner at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Wagner+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=112844552
 
