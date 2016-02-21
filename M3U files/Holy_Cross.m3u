@@ -5,6 +5,8 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,2.20.2016 Vermont at Holy Cross - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Vermont+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=112973670
 
 #EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
 http://www.google.com

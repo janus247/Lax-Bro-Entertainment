@@ -5,8 +5,11 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
-#EXTINF:0,2.12.2016 - Massachusetts at Army West Point (Part 1) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
+#EXTINF:-1,2.20.2016 Rutgers at Army West Point - for best viewing experience visit PLN at https://livestream.com/army
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Rutgers+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=112970560
+
+#EXTINF:0,2.12.2016 - Massachusetts at Army West Point (Part 1) - for best viewing experience visit PLN at https://livestream.com/army
 http://api.new.livestream.com/accounts/6846277/events/4714965/videos/112160045.m3u8
 
-#EXTINF:0,2.12.2016 - Massachusetts at Army West Point (Part 2) - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
+#EXTINF:0,2.12.2016 - Massachusetts at Army West Point (Part 2) - for best viewing experience visit PLN at https://livestream.com/army
 http://api.new.livestream.com/accounts/6846277/events/4714965/videos/112162137.m3u8

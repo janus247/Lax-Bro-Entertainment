@@ -5,6 +5,8 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,2.20.2016 1:00 PM EST - Binghamton at Colgate - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Binghamton+at+Colgate&event_id=4711836&owner_id=6846161&video_id=112958888
 
 #EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
 http://www.google.com

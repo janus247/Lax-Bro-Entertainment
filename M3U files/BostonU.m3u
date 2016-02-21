@@ -5,6 +5,9 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,2.20.2016 Hartford at Boston - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Hartford+at+Boston&event_id=4711793&owner_id=6846136&video_id=112957867
+
 #EXTINF:0,2.12.2016 - U Mass Lowell at Boston U. - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846136/events/4711793/videos/112157949.m3u8
 
