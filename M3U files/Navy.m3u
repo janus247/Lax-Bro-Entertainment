@@ -5,6 +5,9 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,2.21.2016 12:00 PM EST - Delaware at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Delaware+at+Navy&event_id=4711981&owner_id=6846224&video_id=113099121
+
 #EXTINF:0,2.09.2016 - Johns Hopkins at Navy - for best viewing experience visit Livestream at https://livestream.com/PatriotLeagueNetwork
 http://api.new.livestream.com/accounts/6846224/events/4711981/videos/111935720.m3u8
 
