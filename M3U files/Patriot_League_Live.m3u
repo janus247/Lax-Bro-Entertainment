@@ -24,8 +24,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=3gHA6LUgshM
 www.google.com
 
 #EXTINF:-1,BBall test 1
-jtvs-mbb-aec-maine.nlss.neulioncloud.com:443/nlds/jtvs/mbb-aec-maine/as/live/mbb-aec-maine_hd_3000.m3u8
-
+http://jtvs-mbb-aec-maine.nlss.neulioncloud.com:443/nlds/jtvs/mbb-aec-maine/as/live/mbb-aec-maine_hd_3000.m3u8
 
 #EXTINF:-1,2.27.2016 11:45 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
 rtmp://23.108.62.4:1935/flash2/towsonvideo/ timeout=20
