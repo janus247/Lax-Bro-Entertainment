@@ -10,7 +10,6 @@ www.google.com
 #EXTINF:-1,2.27.2016 11:00 AM EST - High Point at RMU - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Lehigh&event_id=4883054&owner_id=9570479&video_id=LIVE
 
-http://player-api.new.livestream.com/accounts/9570479/events/4883054/broadcasts/113670279/availability
 
 #EXTINF:-1,2.27.2016 12:00 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
 rtmp://23.82.149.7:1935/flash2/towsonvideo2/  timeout=20
@@ -24,14 +23,8 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Colg
 #EXTINF:-1,2.27.2016 12:00 PM EST - Manhattan at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Saint+Josephs&event_id=4883069&owner_id=9570485&video_id=LIVE
 
-#EXTINF:-1,2.27.2016 12:00 PM EST - Drexel at Albany by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-albany.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-albany/as/live/mlax-aec-albany_hd_3000.m3u8 
-
 #EXTINF:-1,2.27.2016 12:00 PM EST - Frostburg St. vs Lebanon Valley - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
 rtmp://23.108.203.7:1935/flash1/frostburgvideo/ timeout=20
-
-#EXTINF:-1,2.27.2016 12:35 PM EST - Brown at Stony Brook by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-stonybrook.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-stonybrook/as/live/mlax-aec-stonybrook_hd_3000.m3u8 
 
 #EXTINF:-1,2.27.2016 12:45 PM EST - Keene State vs RPI - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
 rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=20
@@ -39,11 +32,11 @@ rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=20
 #EXTINF:-1,2.27.2016 12:50 PM EST - Scranton vs Muhlenberg - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
 rtmp://23.82.149.6:1935/flash3/muhlenbergvideo timeout=20
 
-#EXTINF:-1,2.27.2016 12:50 AM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
+#EXTINF:-1,2.27.2016 12:50 PM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
 rtmp://3.108.62.5:1935/flash3/kenyonvideo/ timeout=20
 
-#EXTINF:-1,2.27.2016 12:55 PM EST - Providence at Vermont by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-vermont.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-vermont/as/live/mlax-aec-vermont_hd_3000.m3u8 
+#EXTINF:-1,2.27.2016 1:00 PM EST - Bryant at Hartford by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
+http://jtvs-mlax-aec-hartford.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-hartford/as/live/mlax-aec-hartford_hd_3000.m3u8 
 
 #EXTINF:-1,2.27.2016 1:00 PM EST - Lafayette at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lafayette+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
