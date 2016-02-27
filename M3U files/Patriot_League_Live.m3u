@@ -12,7 +12,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=High+Point+at+RM
 
 
 #EXTINF:-1,2.27.2016 12:00 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
-rtmp://23.108.203.16:1935/flash2/towsonvideo2/  timeout=20
+rtmp://23.108.203.16:1935/flash2/towsonvideo2/
 
 
 #EXTINF:-1,2.27.2016 12:00 PM EST - Holy Cross at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
