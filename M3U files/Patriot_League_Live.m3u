@@ -7,8 +7,13 @@ www.google.com
 #EXTINF:0,[COLOR yellow][B]Saturday, February 27, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:-1,2.27.2016 11:45 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
-rtmp://23.108.62.4:1935/flash2/towsonvideo/ timeout=20
+#EXTINF:-1,2.27.2016 11:00 AM EST - High Point at RMU - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Lehigh&event_id=4883054&owner_id=9570479&video_id=LIVE
+
+http://player-api.new.livestream.com/accounts/9570479/events/4883054/broadcasts/113670279/availability
+
+#EXTINF:-1,2.27.2016 12:00 AM EST - Georgetown at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/portal.htm?eventId=269408&streamType=video
+rtmp://23.82.149.7:1935/flash2/towsonvideo2/  timeout=20
 
 #EXTINF:-1,2.27.2016 12:00 PM EST - Holy Cross at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
@@ -17,7 +22,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Le
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Colgate&event_id=4711836&owner_id=6846161&video_id=LIVE
 
 #EXTINF:-1,2.27.2016 12:00 PM EST - Manhattan at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Saint+Josephs&event_id=4847573&owner_id=9570485&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Saint+Josephs&event_id=4883069&owner_id=9570485&video_id=LIVE
 
 #EXTINF:-1,2.27.2016 12:00 PM EST - Drexel at Albany by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-mlax-aec-albany.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-albany/as/live/mlax-aec-albany_hd_3000.m3u8 
