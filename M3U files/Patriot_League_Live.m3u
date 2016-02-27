@@ -46,10 +46,10 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lafayette+at+Loy
 rtmp://23.108.203.16:1935/flash3/ycpvideohd/ timeout=20
 
 #EXTINF:-1,2.27.2016 1:50 PM EST - Rhodes vs Huntingdon - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
-rtmp://23.82.149.8:1935/flash4/rhodesvideo3/ timeout=20
+rtmp://23.82.149.8:1935/flash4/rhodesvideo3/ 
 
 #EXTINF:-1,2.27.2016 2:30 PM EST - Hofstra vs Princeton - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
-rtmp://23.82.149.9:1935/flash2/hofstravideo/ timeout=20
+rtmp://23.82.149.9:1935/flash2/hofstravideo/ 
 
 #EXTINF:-1,2.27.2016 7:00 PM EST - Christopher Newport vs Hampden Sydney - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/ycp/
 rtmp://23.108.203.11:1935/flash3/cnuvideohd/ timeout=20
