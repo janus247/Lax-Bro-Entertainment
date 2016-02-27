@@ -34,7 +34,7 @@ rtmp://23.82.149.11:1935/flash3/keenevideo/ timeout=20
 rtmp://23.82.149.6:1935/flash3/muhlenbergvideo timeout=20
 
 #EXTINF:-1,2.27.2016 12:50 PM EST - Kenyon at Albion - for best viewing experience visit TSN at http://portal.stretchinternet.com/kenyon/
-rtmp://3.108.62.5:1935/flash3/kenyonvideo/ timeout=20
+rtmp://23.108.62.5:1935/flash3/kenyonvideo/ timeout=20
 
 #EXTINF:-1,2.27.2016 1:00 PM EST - Bryant at Hartford by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-mlax-aec-hartford.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-hartford/as/live/mlax-aec-hartford_hd_3000.m3u8 
