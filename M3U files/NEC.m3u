@@ -4,6 +4,13 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,2.27.2016 High Point at RMU - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=High+Point+at+RMU&event_id=4883054&owner_id=9570479&video_id=113670278
+
+#EXTINF:-1,2.27.2016 Manhattan at Saint Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Manhattan+at+Saint+Josephs&event_id=4883069&owner_id=9570485&video_id=113671992
+
+
 #EXTINF:-1,2.23.2016 Monmouth at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Monmouth+at+Wagner&event_id=4866221&owner_id=9570483&video_id=113312215
 
