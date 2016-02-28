@@ -5,7 +5,7 @@ www.google.com
 www.google.com
 
 #EXTINF:-1,2.27.2016 Stony Brook v. Brown
-rtmp://vodfc.cdn.xosnetwork.com/a277/e3/mp4:video101/EJHNXXOLPFOGBAW.20160227215408?e=1456668588&h=63e01405cac565dc9192b92687b65c27&uid=0000&oem_id=14000&event=4778272_vod_StonyBrookMensLacrossevsBrownFeb272016Archive
+rtmp://vodfc.cdn.xosnetwork.com/a277/e3/mp4:video101/EJHNXXOLPFOGBAW.20160227215408.mp4
 
 #EXTINF:-1,2.27.2016 High Point at RMU - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=High+Point+at+RMU&event_id=4883054&owner_id=9570479&video_id=113670278
