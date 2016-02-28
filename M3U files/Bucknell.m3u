@@ -5,6 +5,8 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,2.27.2016 Bucknell at Colgate - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Colgate&event_id=4711836&owner_id=6846161&video_id=113672958
 
 #EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
 http://www.google.com

@@ -1,6 +1,15 @@
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]Hofstra Pride Lacrosse Archive[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
+http://www.google.com
+
+#EXTINF:-1,2.27.2016 Hofstra vs Princeton - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
+rtmp://o8.stretchinternet.com:1935/ondemand/mp4:hofstra/hofstra-271541-v.mp4
+
+#EXTINF:-1,[COLOR yellow]2015 Season[/COLOR]
+http://www.google.com
+
 #EXTINF:0,4.18.2015 TOWSON MEN'S LACROSSE vs HOFSTRA
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-211296-v.mp4
 
@@ -19,7 +28,4 @@ rtmp://o2.stretchinternet.com:1935/ondemand/mp4:hofstra/hofstra-208497-v.mp4
 #EXTINF:0,3.14.2015 HOFSTRA MEN'S LACROSSE vs PROVIDENCE
 rtmp://o2.stretchinternet.com:1935/ondemand/mp4:hofstra/hofstra-205116-v.mp4
 
-#EXTINF:0,2.24.2015 HOFSTRA MEN'S LACROSSE vs MANHATTAN
-
-#EXTINF:0,2.14.2015 HOFSTRA MEN'S LACROSSE vs MARQUETTE
 

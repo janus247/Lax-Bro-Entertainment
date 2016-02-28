@@ -5,6 +5,9 @@ http://www.google.com
 #EXTINF:-1,[COLOR green]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,2.27.2016 Holy Cross at Lehigh - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=113673805
+
 #EXTINF:0,2.06.2016 12:00 PM EST - NJIT at Lehigh  - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 http://api.new.livestream.com/accounts/6846207/events/4711960/videos/111629501.m3u8
 
