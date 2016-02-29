@@ -4,18 +4,6 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR yellow][B]Sunday, February 28, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,2.28.2016 12:50 PM EST - Randolph-Macon vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.108.203.8:1935/flash4/haverfordvideo3/ timeout=20
-
-#EXTINF:-1,2.28.2016 1:00 PM EST - Denison vs Berry - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/denison/
-rtmp://ed3.stretchinternet.com:1935/flash3/denisonvideohd/ timeout=20
-
-#EXTINF:-1,2.28.2016 2:00 PM EST - Frostburg St. vs Mount Union - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://ed1.stretchinternet.com:1935/flash1/frostburgvideo/ timeout=20
-
 #EXTINF:0,[COLOR yellow][B]Tuesday, March 1, 2016[/B][/COLOR]
 www.google.com
 
