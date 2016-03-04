@@ -4,38 +4,6 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR yellow][B]Tuesday, March 1, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,3.1.2016 4:00 PM EST - Towson at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lafayette+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
-
-#EXTINF:-1,3.1.2016 6:30 PM EST - Hofstra vs NJIT - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
-rtmp://23.82.149.9:1935/flash2/hofstravideo/ timeout=20
-
-#EXTINF:0,[COLOR yellow][B]Wednesday, March 2, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,3.2.2016 3:45 PM EST - Keene State vs Tufts - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/plymouth/
-rtmp://23.108.62.5:1935/flash3/keenevideo/ timeout=20
-
-#EXTINF:-1,3.2.2016 3:45 PM EST - St. Mary's vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
-rtmp://23.82.149.11:1935/flash3/washcollvideohd/ timeout=20
-
-#EXTINF:-1,3.2.2016 4:00 PM EST - Emmanuel vs MIT - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/mit/
-rtmp://ed4.stretchinternet.com:1935/flash3/mitvideo/ timeout=20
-
-#EXTINF:-1,3.2.2016 5:00 PM EST - Ohio Wesleyan vs Centre - watch on Youtube https://www.youtube.com/watch?v=tcndCmridyg
-plugin://plugin.video.youtube/?action=play_video&videoid=tcndCmridyg
-
-#EXTINF:-1,3.2.2016 6:50 PM EST - Rhodes vs Hanover - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
-rtmp://23.108.62.4:1935/flash4/rhodesvideo3/ timeout=20
-
-#EXTINF:-1,3.2.2016 6:50 PM EST - Stockton vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.82.149.7:1935/flash4/haverfordvideo3/ timeout=20
-
-#EXTINF:-1,3.2.2016 7:00 PM EST - Frostburg St. vs Messiah - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://eb4.stretchinternet.com:1935/flash1/frostburgvideo/ timeout=20
 
 #EXTINF:0,[COLOR yellow][B]Friday, March 4, 2016[/B][/COLOR]
 www.google.com
