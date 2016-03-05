@@ -20,7 +20,7 @@ rtmp://23.108.15.12:1935/flash2/towsonvideo/ timeout=20
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Furman+at+Mt+St+Marys&event_id=4922594&owner_id=9570478&video_id=LIVE
 
 #EXTINF:-1,3.5.2016 12:00 PM EST - Army West Point at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Army+at+Lafayette&event_id=4714965&owner_id=6846277&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Army+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=LIVE
 
 #EXTINF:-1,3.5.2016 12:00 PM EST - Colgate at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
