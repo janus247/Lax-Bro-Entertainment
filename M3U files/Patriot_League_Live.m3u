@@ -28,17 +28,14 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Lehig
 #EXTINF:-1,3.5.2016 12:50 PM EST - UMass Lowell vs Jacksonville by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-mlax-aec-lowell.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-lowell/as/live/mlax-aec-lowell_hd_3000.m3u8 
 
-#EXTINF:-1,3.5.2016 12:50 PM EST - UAlbany vs Cornell by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-albany.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-albany/as/live/mlax-aec-albany_hd_3000.m3u8 
-
 #EXTINF:-1,3.5.2016 12:55 PM EST - UMass Dartmouth vs Norwich - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/umb/
 rtmp://23.108.62.6:1935/flash3/umassdvideo/ timeout=15
 
 #EXTINF:-1,3.5.2016 1:00 PM EST - Providence at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Sacred+Heart&event_id=4851093&owner_id=9570480&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Sacred+Heart&event_id=4922605&owner_id=9570480&video_id=LIVE
 
-#EXTINF:0,3.5.2016 Yale at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Yale+at+Bryant&event_id=4851093&owner_id=9570474&video_id=LIVE
+#EXTINF:0,3.5.2016 1:00 PM EST Yale at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Yale+at+Bryant&event_id=4922613&owner_id=9570474&video_id=LIVE
 
 #EXTINF:-1,3.5.2016 1:00 PM EST - Loyola Maryland at Holy Cross - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Loyola+Maryland+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=LIVE
@@ -51,6 +48,9 @@ rtmp://23.108.15.4:1935/flash3/denisonvideohd/ timeout=15
 
 #EXTINF:-1,3.5.2016 1:00 PM EST - Centre v. Olivet - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
 rtmp://ed2.stretchinternet.com:1935/flash3/centrevideo/ timeout=15
+
+#EXTINF:0,3.5.2016 1:00 PM EST Drexel at St. Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Drexel+at+St+Josephs&event_id=4922575&owner_id=9570485&video_id=LIVE
 
 #EXTINF:-1,3.5.2016 1:55 PM EST - Washington & Lee at Franklin & Marshall - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
 rtmp://23.108.203.16:1935/flash3/fandmvideohd/ timeout=15
