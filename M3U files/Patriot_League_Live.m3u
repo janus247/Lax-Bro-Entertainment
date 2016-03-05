@@ -4,12 +4,6 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR yellow][B]Friday, March 4, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,3.4.2016 8:50 PM EST MCLA LAX Coaches vs Cancer - BYU vs Chapman - subscribe to The Lacrosse Network on Youtube
-plugin://plugin.video.youtube/?action=play_video&videoid=aBOjefMv4J0
-
 #EXTINF:0,[COLOR yellow][B]Saturday, March 5, 2016[/B][/COLOR]
 www.google.com
 
@@ -20,10 +14,10 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+RMU
 rtmp://23.108.203.11:1935/flash2/hofstravideo/ timeout=20
 
 #EXTINF:-1,3.5.2016 11:45 AM EST - UMBC at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
-rtmp://23.108.15.12:1935/flash2/towsonvideo/ timeout=15
+rtmp://23.108.15.12:1935/flash2/towsonvideo/ timeout=20
 
 #EXTINF:-1,3.5.2016 12:00 AM EST - Furman at Mount St. Mary's - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Furman+at+Mt+St+Marys&event_id=4883054&owner_id=9570479&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Furman+at+Mt+St+Marys&event_id=4922594&owner_id=9570478&video_id=LIVE
 
 #EXTINF:-1,3.5.2016 12:00 PM EST - Army West Point at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Army+at+Lafayette&event_id=4714965&owner_id=6846277&video_id=LIVE
