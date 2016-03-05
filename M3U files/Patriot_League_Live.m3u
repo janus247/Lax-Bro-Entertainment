@@ -14,7 +14,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=aBOjefMv4J0
 www.google.com
 
 #EXTINF:-1,3.5.2016 11:00 AM EST - Air Force at RMU - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+RMU&event_id=4883054&owner_id=9570479&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+RMU&event_id=4922589&owner_id=9570479&video_id=LIVE
 
 #EXTINF:-1,3.5.2016 11:30 AM EST - Hofstra vs Georgetown - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
 rtmp://23.108.203.11:1935/flash2/hofstravideo/ timeout=20
