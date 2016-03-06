@@ -4,6 +4,21 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:0,3.5.2016 Drexel at St. Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Drexel+at+St+Josephs&event_id=4922575&owner_id=9570485&video_id=114382431
+
+#EXTINF:-1,3.5.2016 Providence at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Sacred+Heart&event_id=4922605&owner_id=9570480&video_id=114376712
+
+#EXTINF:0,3.5.2016 Yale at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Yale+at+Bryant&event_id=4922613&owner_id=9570474&video_id=114382356
+
+#EXTINF:-1,3.5.2016 Furman at Mount St. Mary's - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Furman+at+Mt+St+Marys&event_id=4922594&owner_id=9570478&video_id=114376319
+
+#EXTINF:-1,3.5.2016 11:00 AM EST - Air Force at RMU - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+RMU&event_id=4922589&owner_id=9570479&video_id=114366688
+
 #EXTINF:-1,3.2.2016 St. John's at Saint Joseph's - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=St+John+at+Saint+Josephs&event_id=4907019&owner_id=9570485&video_id=114102849
 

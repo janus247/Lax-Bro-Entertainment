@@ -5,6 +5,9 @@ http://www.google.com
 #EXTINF:-1,[COLOR green]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,3.5.2016 Colgate at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=114377911
+
 #EXTINF:-1,2.27.2016 Holy Cross at Lehigh - for best viewing experience visit PLN at http://www.patriotleague.org/ot/plnarchives.html
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=113673805
 

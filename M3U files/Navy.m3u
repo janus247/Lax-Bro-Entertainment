@@ -5,6 +5,9 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,3.5.2016 Navy at Bucknell - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Navy+at+Bucknell&event_id=4711815&owner_id=6846151&video_id=114388011
+
 #EXTINF:-1,2.21.2016 12:00 PM EST - Delaware at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Delaware+at+Navy&event_id=4711981&owner_id=6846224&video_id=113099121
 

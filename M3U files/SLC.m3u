@@ -5,10 +5,13 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
-#EXTINF:-1,3.4.2016 8:50 PM EST MCLA LAX Coaches vs Cancer - BYU vs Chapman - subscribe to The Lacrosse Network on Youtube
+#EXTINF:-1,3.5.2016 MCLA LAX Coaches vs Cancer - Texas vs UNLV - subscribe to The Lacrosse Network on Youtube
+plugin://plugin.video.youtube/?action=play_video&videoid=BkfARS-CJEg
+
+#EXTINF:-1,3.4.2016 MCLA LAX Coaches vs Cancer - BYU vs Chapman - subscribe to The Lacrosse Network on Youtube
 plugin://plugin.video.youtube/?action=play_video&videoid=aBOjefMv4J0
 
-#EXTINF:-1,2.21.2016 3:50 PM EST MCLA SLC Game of the Week - USC at SDSU - for best viewing experience visit Youtube https://www.youtube.com/watch?v=bPphwcgDg8Q
+#EXTINF:-1,2.21.2016 MCLA SLC Game of the Week - USC at SDSU - for best viewing experience visit Youtube https://www.youtube.com/watch?v=bPphwcgDg8Q
 plugin://plugin.video.youtube/?action=play_video&videoid=bPphwcgDg8Q
 
 #EXTINF:0,2.13.16 MCLA SLC Game of the Week - Washington v. UCLA - for best viewing experience visit Youtube https://www.youtube.com/watch?v=XPrCY0Qwu3o
