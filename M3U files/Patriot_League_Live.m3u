@@ -7,57 +7,6 @@ www.google.com
 #EXTINF:0,[COLOR yellow][B]Saturday, March 5, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:-1,3.5.2016 11:00 AM EST - Air Force at RMU - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Air+Force+at+RMU&event_id=4922589&owner_id=9570479&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 11:30 AM EST - Hofstra vs Georgetown - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
-rtmp://23.108.203.11:1935/flash2/hofstravideo/ timeout=20
-
-#EXTINF:-1,3.5.2016 11:45 AM EST - UMBC at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
-rtmp://23.108.15.12:1935/flash2/towsonvideo/ timeout=20
-
-#EXTINF:-1,3.5.2016 12:00 AM EST - Furman at Mount St. Mary's - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Furman+at+Mt+St+Marys&event_id=4922594&owner_id=9570478&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 12:00 PM EST - Army West Point at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Army+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 12:00 PM EST - Colgate at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 12:50 PM EST - UMass Lowell vs Jacksonville by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-lowell.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-lowell/as/live/mlax-aec-lowell_hd_3000.m3u8 
-
-#EXTINF:-1,3.5.2016 12:55 PM EST - UMass Dartmouth vs Norwich - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/umb/
-rtmp://23.108.62.6:1935/flash3/umassdvideo/ timeout=15
-
-#EXTINF:-1,3.5.2016 1:00 PM EST - Providence at Sacred Heart - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Providence+at+Sacred+Heart&event_id=4922605&owner_id=9570480&video_id=LIVE
-
-#EXTINF:0,3.5.2016 1:00 PM EST Yale at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Yale+at+Bryant&event_id=4922613&owner_id=9570474&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 1:00 PM EST - Loyola Maryland at Holy Cross - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Loyola+Maryland+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 1:00 PM EST - Navy at Bucknell - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Navy+at+Bucknell&event_id=4711815&owner_id=6846151&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 1:00 PM EST - Denison vs Sewanee - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/denison/
-rtmp://23.108.15.4:1935/flash3/denisonvideohd/ timeout=15
-
-#EXTINF:-1,3.5.2016 1:00 PM EST - Centre v. Olivet - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
-rtmp://ed2.stretchinternet.com:1935/flash3/centrevideo/ timeout=15
-
-#EXTINF:0,3.5.2016 1:00 PM EST Drexel at St. Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Drexel+at+St+Josephs&event_id=4922575&owner_id=9570485&video_id=LIVE
-
-#EXTINF:-1,3.5.2016 1:55 PM EST - Washington & Lee at Franklin & Marshall - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
-rtmp://23.108.203.16:1935/flash3/fandmvideohd/ timeout=15
-
-#EXTINF:-1,3.5.2016 7:50 PM EST MCLA LAX Coaches vs Cancer - Texas vs UNLV - subscribe to The Lacrosse Network on Youtube
-plugin://plugin.video.youtube/?action=play_video&videoid=BkfARS-CJEg
-
 #EXTINF:0,[COLOR yellow][B]Sunday, March 6, 2016[/B][/COLOR]
 www.google.com
 
