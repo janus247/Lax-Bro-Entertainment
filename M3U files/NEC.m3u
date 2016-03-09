@@ -4,6 +4,9 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:0,3.8.2016 Harvard at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Harvard+at+Bryant&event_id=4943389&owner_id=9570474&video_id=114869011
+
 #EXTINF:0,3.5.2016 Drexel at St. Josephs - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Drexel+at+St+Josephs&event_id=4922575&owner_id=9570485&video_id=114382431
 
