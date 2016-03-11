@@ -4,27 +4,6 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.  Links are manually updated.  If the match you selected times out, try again in 5 minutes.[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR yellow][B]Wednesday, March 9, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,3.9.2016 3:00 PM EST - York v. Gettysburg - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/ycp/
-rtmp://23.108.62.5:1935/flash3/ycpvideohd/ timeout=15
-
-#EXTINF:-1,3.9.2016 3:40 PM EST - UMass Dartmouth vs Mt. IDA - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/umb/
-rtmp://23.82.149.7:1935/flash3/umassdvideo/ timeout=15
-
-#EXTINF:-1,3.9.2016 3:50 PM EST - Gwynedd Mercy vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.108.62.6:1935/flash4/haverfordvideo3/ timeout=15
-
-#EXTINF:-1,3.9.2016 3:50 PM EST - Rhodes vs Susquehanna - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
-rtmp://23.108.15.9:1935/flash4/rhodesvideo3/ timeout=15
-
-#EXTINF:-1,3.9.2016 3:55 PM EST - Albright at Franklin & Marshall - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
-rtmp://eb2.stretchinternet.com:1935/flash3/fandmvideohd/ timeout=15
-
-#EXTINF:-1,3.9.2016 4:00 PM EST - Frostburg St. vs Lycoming - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://23.82.149.7:1935/flash1/frostburgvideo/ timeout=15
-
 #EXTINF:0,[COLOR yellow][B]Friday, March 11, 2016[/B][/COLOR]
 www.google.com
 
