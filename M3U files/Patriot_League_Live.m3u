@@ -13,6 +13,9 @@ rtmp://vodfc.cdn.xosnetwork.com/a277/e3/mp4:video101/XYJUWOZEBNYSKIR.20160301183
 #EXTINF:-1,Test 2
 rtmp://vodfc.cdn.xosnetwork.com/a277/e3/mp4/_vod_CatamounTVArchiveMensLacrossevsProvidence22716.mp4
 
+#EXTINF:-1,Test 3
+rtmp://vodfc.cdn.xosnetwork.com/a277/e3/mp4/4789673_vod_CatamounTVArchiveMensLacrossevsProvidence22716.mp4
+
 #EXTINF:-1,3.12.2016 11:30 AM EST - Ohio St. at Hofstra - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/hofstra/
 rtmp://23.82.149.7:1935/flash2/hofstravideo/  timeout=15
 
