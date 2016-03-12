@@ -13,6 +13,9 @@ rtmp://23.82.149.7:1935/flash2/hofstravideo/  timeout=15
 #EXTINF:-1,3.12.2016 12:00 PM EST - Centre v. Sewanee - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
 rtmp://eb4.stretchinternet.com:1935/flash3/centrevideo/ timeout=15
 
+#EXTINF:-1,3.12.2016 12:00 PM EST - VMI at Mount St. Mary's - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Mt+St+Marys&event_id=4922594&owner_id=9570478&video_id=LIVE
+
 #EXTINF:-1,3.12.2016 12:00 PM EST - Lafayette at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lafayette+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
 
@@ -39,6 +42,9 @@ rtmp://23.82.149.5:1935/flash4/haverfordvideo3/ timeout=15
 
 #EXTINF:-1,3.12.2016 12:55 PM EST - Berry vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
 rtmp://23.82.149.8:1935/flash3/washcollvideohd/ timeout=15
+
+#EXTINF:0,3.12.2016 1:00 PM EST - Drexel at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Drexel+at+Bryant&event_id=4922613&owner_id=9570474&video_id=LIVE
 
 #EXTINF:-1,3.12.2016 1:00 PM EST - Colgate at Boston University - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Boston+U&event_id=4711793&owner_id=6846136&video_id=LIVE
