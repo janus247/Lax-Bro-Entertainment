@@ -19,7 +19,7 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Mt+St+Mar
 #EXTINF:-1,3.12.2016 12:00 PM EST - Lehigh at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lehigh+at+Army&event_id=4714965&owner_id=6846277&video_id=LIVE
 
-#EXTINF:-1,3.12.2016 12:50 PM EST - UMBC Lowell vs Marist by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
+#EXTINF:-1,3.12.2016 12:00 PM EST - UMBC Lowell vs Marist by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-mlax-aec-UMBC.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-UMBC/as/live/mlax-aec-UMBC_hd_3000.m3u8 
 
 #EXTINF:-1,3.12.2016 12:50 PM EST - Salisbury vs St. Mary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/salisbury/
