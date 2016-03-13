@@ -4,66 +4,6 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.  Links are manually updated.  If the match you selected times out, try again in 5 minutes.[/B][/COLOR]
 www.google.com
 
-#EXTINF:0,[COLOR yellow][B]Saturday, March 12, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,3.12.2016 11:30 AM EST - Ohio St. at Hofstra - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/hofstra/
-rtmp://23.82.149.7:1935/flash2/hofstravideo/ timeout=30
-
-#EXTINF:-1,3.12.2016 12:00 PM EST - Centre v. Sewanee - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/centre/
-rtmp://23.108.203.15:1935/flash3/centrevideo3/ timeout=15
-
-#EXTINF:-1,3.12.2016 12:00 PM EST - VMI at Mount St. Mary's - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=VMI+at+Mt+St+Marys&event_id=4961236&owner_id=9570478&video_id=LIVE
-
-#EXTINF:-1,3.12.2016 12:00 PM EST - Lehigh at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lehigh+at+Army&event_id=4714965&owner_id=6846277&video_id=LIVE
-
-#EXTINF:-1,3.12.2016 12:00 PM EST - UMBC Lowell vs Marist by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-UMBC.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-UMBC/as/live/mlax-aec-UMBC_hd_3000.m3u8 
-
-#EXTINF:-1,3.12.2016 12:50 PM EST - Salisbury vs St. Mary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/salisbury/
-rtmp://23.82.149.6:1935/flash3/salisburyvideo2/ timeout=15
-
-#EXTINF:-1,3.12.2016 12:50 PM EST - UMass Lowell vs Manhattan by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-lowell.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-lowell/as/live/mlax-aec-lowell_hd_3000.m3u8 
-
-#EXTINF:-1,3.12.2016 12:50 PM EST - Binghamton vs Delaware by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-binghamton.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-binghamton/as/live/mlax-aec-binghamton_hd_3000.m3u8 
-
-#EXTINF:-1,3.12.2016 12:50 PM EST - Vermont vs Sacred Heart by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-vermont.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-vermont/as/live/mlax-aec-vermont_hd_3000.m3u8 
-
-#EXTINF:-1,3.12.2016 12:50 PM EST - Wooster vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.82.149.5:1935/flash4/haverfordvideo3/ timeout=15
-
-#EXTINF:-1,3.12.2016 12:55 PM EST - Berry vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
-rtmp://23.82.149.8:1935/flash3/washcollvideohd/ timeout=15
-
-#EXTINF:0,3.12.2016 1:00 PM EST - Drexel at Bryant - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Drexel+at+Bryant&event_id=4961257&owner_id=9570474&video_id=LIVE
-
-#EXTINF:-1,3.12.2016 1:00 PM EST - Colgate at Boston University - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Boston+U&event_id=4711793&owner_id=6846136&video_id=LIVE
-
-#EXTINF:-1,3.12.2016 1:00 PM EST - Bucknell at Holy Cross - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=LIVE
-
-#EXTINF:-1,3.12.2016 1:00 PM EST - Hartford vs Quinnipac by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-hartford.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-hartford/as/live/mlax-aec-hartford_hd_3000.m3u8 
-
-#EXTINF:-1,3.12.2016 1:00 PM EST - U. New England vs MIT - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/mit/
-rtmp://23.108.15.10:1935/flash3/mitvideo/ timeout=15
-
-#EXTINF:-1,3.12.2016 1:55 PM EST - Hampden-Sydney at Washington & Lee - for best viewing experience visit W&L Stretch Internet Portal at http://portal.stretchinternet.com/wandl/
-rtmp://23.108.203.6:1935/flash1/wandlvideo/ timeout=15
-
-#EXTINF:-1,3.12.2016 2:00 PM EST - Kenyon at Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
-rtmp://23.82.149.5:1935/flash3/fandmvideohd/ timeout=15
-
-#EXTINF:-1,3.12.2016 4:00 PM EST - Frostburg St. vs Marymount - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/frostburg/
-rtmp://23.108.203.7:1935/flash1/frostburgvideo/ timeout=15
-
 #EXTINF:0,[COLOR yellow][B]Sunday, March 13, 2016[/B][/COLOR]
 www.google.com
 

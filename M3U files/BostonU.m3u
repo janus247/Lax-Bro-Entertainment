@@ -5,6 +5,9 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,3.12.2016 Colgate at Boston University - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Colgate+at+Boston+U&event_id=4711793&owner_id=6846136&video_id=115364671
+
 #EXTINF:-1,2.20.2016 Hartford at Boston - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Hartford+at+Boston&event_id=4711793&owner_id=6846136&video_id=112957867
 
