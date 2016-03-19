@@ -7,7 +7,7 @@ www.google.com
 #EXTINF:0,[COLOR yellow][B]Saturday, March 19, 2016[/B][/COLOR]
 www.google.com
 
-#EXTINF:-1,3.19.2016 12:55 PM EST - UAlbany vs Stony Brook by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
+#EXTINF:-1,3.19.2016 11:55 aM EST - UAlbany vs Stony Brook by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-mlax-albany.nlss.neulioncloud.com:443/nlds/jtvs/mlax-albany/as/live/mlax-albany_hd_3000.m3u8 
 
 #EXTINF:-1,3.19.2016 12:00 PM EDT - Furman vs Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
@@ -21,6 +21,9 @@ plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Fairfield+at+Col
 
 #EXTINF:-1,3.19.2016 12:50 PM EST - UMass Lowell vs Hartford by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
 http://jtvs-mlax-aec-lowell.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-lowell/as/live/mlax-aec-lowell_hd_3000.m3u8 
+
+#EXTINF:-1,3.19.2016 12:50 PM EST - Binghamton vs UMBC by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
+http://jtvs-mlax-aec-binghamton.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-binghamton/as/live/mlax-aec-binghamton_hd_3000.m3u8 
 
 #EXTINF:-1,3.19.2016 12:55 PM EDT - Frostburg St. vs Washington College - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/washcoll/
 rtmp://23.82.149.10:1935/flash3/washcollvideohd/ timeout=15
