@@ -26,7 +26,7 @@ http://jtvs-mlax-aec-albany.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-albany/
 rtmp://23.82.149.10:1935/flash3/washcollvideohd/ timeout=15
 
 #EXTINF:-1,3.19.2016 1:00 P.M. EDT - Hobart at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Hobart+at+Wagner&event_id=4901163&owner_id=9570483&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Hobart+at+Wagner&event_id=5019617&owner_id=9570483&video_id=LIVE
 
 #EXTINF:-1,3.19.2016 1:00 P.M. EDT -  Loyola Maryland at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Loyola+Maryland+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
