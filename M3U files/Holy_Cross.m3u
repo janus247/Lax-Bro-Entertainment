@@ -5,6 +5,15 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,3.19.2016 Part 1 -  Holy Cross at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=116277762
+
+#EXTINF:-1,3.19.2016 Part 2 -  Holy Cross at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=116284701
+
+#EXTINF:-1,3.19.2016 Part 3 -  Holy Cross at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=116289340
+
 #EXTINF:-1,3.12.2016 Bucknell at Holy Cross - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=115364743
 

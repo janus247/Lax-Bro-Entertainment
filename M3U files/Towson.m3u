@@ -4,6 +4,9 @@ www.google.com
 #EXTINF:-1,[COLOR yellow][B][UPPERCASE]2016 Season[/UPPERCASE][/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,3.19.2016 Furman vs Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
+rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-269416-v.mp4
+
 #EXTINF:-1,3.5.2016 UMBC at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:towson/towson-269411-v.mp4
 

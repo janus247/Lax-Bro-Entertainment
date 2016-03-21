@@ -5,7 +5,28 @@ http://www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
-#EXTINF:-1,3.12.2016 Lehigh at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+#EXTINF:-1,3.19.2016 Part 1 -  Holy Cross at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=116277762
+
+#EXTINF:-1,3.19.2016 Part 2 -  Holy Cross at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=116284701
+
+#EXTINF:-1,3.19.2016 Part 3 -  Holy Cross at Army West Point - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Holy+Cross+at+Army+West+Point&event_id=4714965&owner_id=6846277&video_id=116289340
+
+#EXTINF:-1,3.13.2016 NJIT at Army West Point - for best viewing experience visit PLN at https://livestream.com/army
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=NJIT+at+Army&event_id=4714965&owner_id=6846277&video_id=LIVE
+
+#EXTINF:-1,3.12.2016 Lehigh at Army West Point (Part 1)- for best viewing experience visit PLN at https://livestream.com/army
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lehigh+at+Army&event_id=4714965&owner_id=6846277&video_id=115358663
+
+#EXTINF:-1,3.12.2016 Lehigh at Army West Point (Part 2)- for best viewing experience visit PLN at https://livestream.com/army
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lehigh+at+Army&event_id=4714965&owner_id=6846277&video_id=115361437
+
+#EXTINF:-1,3.12.2016 Lehigh at Army West Point (Part 3)- for best viewing experience visit PLN at https://livestream.com/army
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lehigh+at+Army&event_id=4714965&owner_id=6846277&video_id=/115368005
+
+#EXTINF:-1,3.12.2016 Lehigh at Army West Point (Part 4)- for best viewing experience visit PLN at https://livestream.com/army
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lehigh+at+Army&event_id=4714965&owner_id=6846277&video_id=115376743
 
 #EXTINF:-1,3.5.2016 Army West Point at Lafayette - for best viewing experience visit PLN at http://livestream.com/lafayette/lafayettemlax-15-16
