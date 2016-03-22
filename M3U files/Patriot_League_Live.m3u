@@ -7,6 +7,9 @@ www.google.com
 #EXTINF:0,[COLOR yellow][B]Tuesday, March 22, 2016[/B][/COLOR]
 www.google.com
 
+#EXTINF:-1,3.22.2016 6:45 PM EDT - Hofstra vs Vermont - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
+rtmp://23.108.15.5:1935/flash2/hofstravideo/ timeout=15
+
 #EXTINF:-1,3.22.2016 7:00 P.M. EDT -  Lafayette at Navy - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Lafayette+at+Navy&event_id=4711981&owner_id=6846224&video_id=LIVE
 
