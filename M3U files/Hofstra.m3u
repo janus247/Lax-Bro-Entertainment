@@ -4,6 +4,9 @@ www.google.com
 #EXTINF:-1,[COLOR yellow]2016 Season[/COLOR]
 http://www.google.com
 
+#EXTINF:-1,3.22.2016 Hofstra vs Vermont - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/hofstra/
+rtmp://o2.stretchinternet.com:1935/ondemand/mp4:hofstra/hofstra-278635-v.mp4
+
 #EXTINF:-1,3.12.2016 Ohio St. at Hofstra - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/hofstra/
 rtmp://o4.stretchinternet.com:1935/ondemand/mp4:hofstra/hofstra-274579-v.mp4
 
