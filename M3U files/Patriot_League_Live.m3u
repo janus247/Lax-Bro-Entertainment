@@ -27,7 +27,7 @@ rtmp://23.108.203.8:1935/flash4/haverfordvideo3/ timeout=15
 http://jtvs-mlax-aec-vermont.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-vermont/as/live/mlax-aec-vermont_hd_3000.m3u8 
 
 #EXTINF:-1,3.26.2016 1:00 PM EDT - NJIT at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=UMass+Lowell+at+Wagner&event_id=4901163&owner_id=9570483&video_id=LIVE
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=UMass+Lowell+at+Wagner&event_id=5060817&owner_id=9570483&video_id=LIVE
 
 #EXTINF:-1,3.26.2016 1:00 PM EDT -  Bucknell at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
 plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
