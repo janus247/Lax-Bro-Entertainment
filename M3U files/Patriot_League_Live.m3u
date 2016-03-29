@@ -4,72 +4,11 @@ www.google.com
 #EXTINF:0,[COLOR red][B]Click on link at game time.  Links are NOT active prior to game time.  Links are manually updated.  If the match you selected times out, try again in 5 minutes.[/B][/COLOR]
 www.google.com
 
-
-#EXTINF:0,[COLOR yellow][B]Saturday, March 26, 2016[/B][/COLOR]
-www.google.com
-
-#EXTINF:-1,3.26.2016 11:00 AM EDT - Jacksonville at Holy Cross - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Jacksonville+at+Holy+Cross&event_id=4711860&owner_id=6846167&video_id=LIVE
-
-#EXTINF:-1,3.26.2016 12:00 PM EDT - UMBC Lowell vs Stony Brook by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-UMBC.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-UMBC/as/live/mlax-aec-UMBC_hd_3000.m3u8 
-
-#EXTINF:-1,3.26.2016 12:00 PM EDT - Robert Morris at Mount St. Mary's - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Robert+Morris+at+Mt+St+Marys&event_id=5060806&owner_id=9570478&video_id=LIVE
-
-#EXTINF:-1,3.26.2016 12:45 PM EDT - Salisbury vs Southern Virginia - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/salisbury/
-rtmp://23.108.203.17:1935/flash3/salisburyvideo/ timeout=15
-
-#EXTINF:-1,3.26.2016 12:50 PM EDT - Gettysburg vs Haverford - no commentary - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/haverford/
-rtmp://23.108.203.8:1935/flash4/haverfordvideo3/ timeout=15
-
-#EXTINF:-1,3.12.2016 12:50 PM EST - Vermont vs U Mass Lowell by America East TV - for best viewing experience visit AE TV at http://www.americaeast.com/mediaPortal/player.dbml?DB_OEM_ID=14000
-http://jtvs-mlax-aec-vermont.nlss.neulioncloud.com:443/nlds/jtvs/mlax-aec-vermont/as/live/mlax-aec-vermont_hd_3000.m3u8 
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT - NJIT at Wagner - for best viewing experience visit NEC Front Row at http://www.necfrontrow.com/
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=UMass+Lowell+at+Wagner&event_id=5060817&owner_id=9570483&video_id=LIVE
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT -  Bucknell at Loyola Maryland - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Bucknell+at+Loyola+Maryland&event_id=4712015&owner_id=6846238&video_id=LIVE
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT -  Boston University at Lafayette - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Boston+University+at+Lafayette&event_id=4711886&owner_id=6846185&video_id=LIVE
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT -  Army West Point at Colgate - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Army+West+Point+at+Colgate&event_id=4711836&owner_id=6846161&video_id=LIVE
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT Ohio Wesleyan vs Kenyon - watch on Youtube https://www.youtube.com/watch?v=TykHJWZFwZs
-plugin://plugin.video.youtube/?action=play_video&videoid=TykHJWZFwZs
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT - York v. Mary Washington - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/ycp/
-rtmp://ed4.stretchinternet.com:1935/flash3/ycpvideohd/ timeout=15
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT - Muhlenberg vs Franklin & Marshall - for best viewing experience visit F&M Stretch Internet Portal at http://portal.stretchinternet.com/fandm/
-rtmp://23.82.149.7:1935/flash3/muhlenbergvideo/ timeout=15
-
-#EXTINF:-1,3.26.2016 1:00 PM EDT - Christopher Newport vs Frostburg State - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/ycp/
-rtmp://23.108.62.5:1935/flash3/cnuvideohd2/ timeout=15
-
-#EXTINF:-1,3.26.2016 2:00 PM EDT - Denison vs DePauw - for best viewing experience visit Stretch Internet Portal at http://portal.stretchinternet.com/denison/
-rtmp://23.82.149.6:1935/flash3/denisonvideohd/ timeout=15
-
-#EXTINF:-1,3.26.2016 2:45 PM EDT - Binghamton at Towson - for best viewing experience visit TSN at http://portal.stretchinternet.com/towson/
-rtmp://23.108.203.16:1935/flash2/towsonvideo/ timeout=15
-
-#EXTINF:-1,3.26.2016 3:00 PM EDT - Navy at Lehigh - for best viewing experience visit PLN at http://campusinsiders.com/network/patriot_league/live
-plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=Navy+at+Lehigh&event_id=4711960&owner_id=6846207&video_id=LIVE
-
-#EXTINF:-1,3.26.2016 3:50 PM EDT - MCLA SLC Game of the Week - CSU Fullerton at Concordia - subscribe to The Lacrosse Network on Youtube
-plugin://plugin.video.youtube/?action=play_video&videoid=P8pSYHJKZK0
-
-#EXTINF:-1,3.26.2016 4:00 PM EDT - SUNY Plattsburg vs MIT - no commentary - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/mit/
-rtmp://23.108.203.6:1935/flash3/mitvideo/ timeout=15
-
 #EXTINF:0,[COLOR yellow][B]Sunday, March 27, 2016[/B][/COLOR]
 www.google.com
 
 #EXTINF:-1,3.27.2016 1:50 PM EDT - Rhodes vs Berry - for best viewing experience visit Stretch Internet Portal http://portal.stretchinternet.com/rhodes/
-rtmp://23.108.15.7:1935/flash4/rhodesvideo3/ timeout=15
+https://video01-lax.streamup.com/app/blueherons-stream_aac/playlist.m3u8
 
 #EXTINF:0,[COLOR yellow][B]Monday, March 29, 2016[/B][/COLOR]
 www.google.com
